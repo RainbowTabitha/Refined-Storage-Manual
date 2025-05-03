@@ -5,12 +5,12 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Relay acts as $(l:cable)Cable$(), but can be turned on or off depending on the redstone configuration. Devices connected after the Relay will be on or off depending if the Relay is on."
+"text" : "The Relay functions similarly to $(l:cable)Cable$(), but with the added ability to control the power state of connected devices based on redstone signals. This allows for greater control over your network, enabling or disabling devices as needed. The Relay is an essential component for managing power flow within your Refined Storage system."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:relay",
-"text" : "Crafting Recipe."
+"text" : "Relay Crafting Recipe."
 }
 ]
 }

@@ -1,0 +1,23 @@
+{
+"name" : "Basic Processor",
+"icon" : "refinedstorage:basic_processor",
+"category" : "refstoragemanual:processors_and_upgrades",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Basic Processor is the entry-level processor used to craft basic Refined Storage devices. It is the foundation for more advanced processors and components."
+},
+{
+"type" : "text",
+"text" : "Features:$(li)Used in basic device recipes$(li)Required for early-game automation$(li)Used in storage and network components$(li)Can be upgraded to Improved Processor"
+},
+{
+"type" : "text",
+"text" : "To craft the Basic Processor:$(li)First craft a Raw Basic Processor$(li)Smelt the Raw Basic Processor in a furnace$(li)Combine with Processor Binding$(li)Requires basic resources"
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:basic_processor"
+}
+]
+} 

@@ -1,16 +1,27 @@
 {
 "name" : "Crafting Grid",
 "icon" : "refinedstorage:crafting_grid",
-"category" : "refstoragemanual:grids",
+"category" : "refstoragemanual:access_and_grids",
 "pages" : [
 {
 "type" : "text",
-"text" : "The Crafting Grid is the same as a regular Grid, but has a crafting inventory. When an item is crafted, it won’t just clear the crafting slots, but it’ll try to retrieve the same items from the storage network again.$(br2)Recipe transferring$(br)The Crafting Grid integrates with JEI (Just Enough Items) so the player can use recipe transferring."
+"text" : "The Crafting Grid is similar to a regular Grid but includes a crafting inventory. It allows you to craft items using materials from your storage network."
+},
+{
+"type" : "text",
+"text" : "Features:$(li)All features of a regular Grid$(li)Integrated crafting inventory$(li)JEI recipe transfer support$(li)Automatic item retrieval from network$(li)CTRL + CLICK to start autocrafting missing items"
+},
+{
+"type" : "text",
+"text" : "To use the Crafting Grid:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Right-click to open the interface$(li)Use JEI to transfer recipes$(li)CTRL + CLICK missing items to start autocrafting$(li)Use the crafting grid to craft items"
+},
+{
+"type" : "text",
+"text" : "You can recolor the Crafting Grid in two ways:$(li)Using a dye on the Crafting Grid$(li)Combining the block with a dye in a crafting recipe"
 },
 {
 "type" : "crafting",
-"recipe" : "refinedstorage:crafting_grid",
-"text" : "Crafting Recipe."
+"recipe" : "refinedstorage:crafting_grid"
 }
 ]
 }

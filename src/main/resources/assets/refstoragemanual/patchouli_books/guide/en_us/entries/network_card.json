@@ -1,16 +1,23 @@
 {
 "name" : "Network Card",
 "icon" : "refinedstorage:network_card",
-"category" : "refstoragemanual:tools",
+"category" : "refstoragemanual:networking",
 "pages" : [
 {
 "type" : "text",
-"text" : "Network Card is used for connecting a $(l:transmitter)Network Transmitter$() and $(l:receiver)Receiver$() ($(l:distance)read this for more$())"
+"text" : "The Network Card is a crucial component for wireless networking in Refined Storage. It allows wireless devices to connect to specific wireless networks."
+},
+{
+"type" : "text",
+"text" : "To use the Network Card:$(li)Insert it into a Wireless Transmitter to create a wireless network$(li)Insert it into wireless devices to connect them to a network$(li)Configure the network channel to match between transmitter and devices$(li)Use it within range of the configured Wireless Transmitter"
+},
+{
+"type" : "text",
+"text" : "The Network Card can be configured with different channels to create separate wireless networks. This allows you to have multiple wireless networks in the same area without interference."
 },
 {
 "type" : "crafting",
-"recipe" : "refinedstorage:network_card",
-"text" : "Crafting Recipe."
+"recipe" : "refinedstorage:network_card"
 }
 ]
 }

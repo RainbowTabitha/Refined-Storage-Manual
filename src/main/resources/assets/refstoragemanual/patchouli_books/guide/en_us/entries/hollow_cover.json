@@ -1,0 +1,20 @@
+{
+"name" : "Hollow Cover",
+"icon" : "minecraft:tripwire_hook",
+"category" : "refstoragemanual:tools_and_utilities",
+"pages" : [
+{
+"type" : "text",
+"text" : "Hollow Covers function similarly to regular Covers but feature a central opening that allows redstone signals to pass through. This makes them ideal for concealing cables that need to interact with redstone systems or for creating visually appealing redstone wiring. Like standard Covers, they can be crafted with almost any solid block to match your build's aesthetic."
+},
+{
+"type" : "text",
+"text" : "To place a Hollow Cover, right-click it onto a cable. The Hollow Cover will adopt the appearance of the block used to craft it, with a small central hole. To remove a Hollow Cover, use a Wrench on it. These specialized covers are particularly useful for complex automation setups where both aesthetics and redstone functionality are important considerations."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:hollow_cover",
+"text" : "Hollow Cover Crafting Recipe. Almost any solid block can be used in the recipe."
+}
+]
+} 

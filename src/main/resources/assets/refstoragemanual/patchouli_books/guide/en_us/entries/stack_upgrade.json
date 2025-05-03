@@ -1,0 +1,23 @@
+{
+"name" : "Stack Upgrade",
+"icon" : "refinedstorage:stack_upgrade",
+"category" : "refstoragemanual:processors_and_upgrades",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Stack Upgrade increases the amount of items that can be transferred at once. Each upgrade installed will multiply the transfer amount."
+},
+{
+"type" : "text",
+"text" : "Features:$(li)Increases item transfer amounts$(li)Can be stacked for greater effect$(li)Works in machines like Importers, Exporters, and Constructors$(li)Increases power consumption"
+},
+{
+"type" : "text",
+"text" : "To use the Stack Upgrade:$(li)Right-click on a compatible machine$(li)Insert the upgrade into an upgrade slot$(li)Multiple upgrades can be installed$(li)Each upgrade will increase power consumption"
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:stack_upgrade"
+}
+]
+} 

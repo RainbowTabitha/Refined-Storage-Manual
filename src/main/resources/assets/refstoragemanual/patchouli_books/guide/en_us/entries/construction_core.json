@@ -1,0 +1,23 @@
+{
+  "name": "Construction Core",
+  "category": "refstoragemanual:processors_and_upgrades",
+  "icon": "refinedstorage:construction_core",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Construction Core is a specialized component used in devices that place or construct blocks and items in the world. It is essential for automation involving block placement."
+    },
+    {
+      "type": "text",
+      "text": "Features:$(li)Used in Constructor devices$(li)Enables block placement automation$(li)Required for automated building$(li)Part of advanced automation systems"
+    },
+    {
+      "type": "text",
+      "text": "Usage:$(li)Craft Constructors for automation$(li)Enable automated block placement$(li)Part of automated farming systems$(li)Used in building automation"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorage:construction_core"
+    }
+  ]
+} 

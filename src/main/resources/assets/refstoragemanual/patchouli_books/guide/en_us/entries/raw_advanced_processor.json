@@ -1,0 +1,16 @@
+{
+"name" : "Raw Advanced Processor",
+"icon" : "refinedstorage:raw_advanced_processor",
+"category" : "refstoragemanual:processors_and_upgrades",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Raw Advanced Processor is a sophisticated unprocessed component that requires smelting in a furnace to create the Advanced Processor. This high-end assembly combines silicon, redstone, and diamond in a configuration that, when properly smelted, delivers the superior computing power necessary for the most advanced Refined Storage devices and high-capacity storage solutions."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:raw_advanced_processor",
+"text" : "Raw Advanced Processor Crafting Recipe."
+}
+]
+} 

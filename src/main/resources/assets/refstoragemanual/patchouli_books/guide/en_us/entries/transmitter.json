@@ -5,12 +5,12 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "A Network Transmitter sends a network signal to a $(l:receiver)Network Receiver$() that is specified in the given $(l:network_card)Network Card$(). In order for the Network Transmitter to work the $(l:control)Controller$() where the Network Transmitter is connected to has to be chunkloaded. Read $(l:distance)this$() for more."
+"text" : "The Network Transmitter is a crucial component for extending your Refined Storage network across long distances. It sends a network signal to a $(l:receiver)Network Receiver$() specified in the $(l:network_card)Network Card$(). For the Network Transmitter to function, the $(l:control)Controller$() it is connected to must be chunkloaded. This setup allows for seamless integration of distant storage systems. Read $(l:distance)this$() for more details."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:network_transmitter",
-"text" : "Crafting Recipe."
+"text" : "Network Transmitter Crafting Recipe."
 }
 ]
 }

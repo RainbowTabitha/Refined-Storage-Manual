@@ -5,27 +5,31 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "A Storage Disk is an item where items from the storage network are stored on. It has to be put in a $(l:disk_drive)Disk Drive$(). The Storage Disk won’t despawn when dropped in the world. You can also uncraft it by shift + right clicking with it in hand."
+"text" : "Storage Disks are portable storage devices that can be inserted into a $(l:disk_drive)Disk Drive$() to provide storage capacity for your network. These disks are essential components for any Refined Storage system, offering various storage tiers to meet different needs. Like Storage Blocks, they won't despawn when dropped in the world."
+},
+{
+"type" : "text",
+"text" : "Storage Disks can be uncrafted by shift + right-clicking with them in hand, returning:$(br)$(li)The corresponding Storage Part$(li)Storage Housing$(br2)When inserted into a Disk Drive, the network gains access to the disk's storage capacity. Multiple disks can be used in a single drive to expand storage capabilities."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:1k_storage_disk",
-"text" : "1k Storage Disk's Crafting Recipe."
+"text" : "1k Storage Disk - Stores 1,000 items. Combines a 1k Storage Part with Storage Housing."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:4k_storage_disk",
-"text" : "4k Storage Disk's Crafting Recipe."
+"text" : "4k Storage Disk - Stores 4,000 items. Combines a 4k Storage Part with Storage Housing."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:16k_storage_disk",
-"text" : "16k Storage Disk's Crafting Recipe."
+"text" : "16k Storage Disk - Stores 16,000 items. Combines a 16k Storage Part with Storage Housing."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:64k_storage_disk",
-"text" : "64k Storage Disk's Crafting Recipe."
+"text" : "64k Storage Disk - Stores 64,000 items. Combines a 64k Storage Part with Storage Housing."
 }
 ]
 }

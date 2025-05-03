@@ -1,17 +1,23 @@
 {
 "name" : "Storage Monitor",
 "icon" : "refinedstorage:storage_monitor",
-"category" : "refstoragemanual:grids",
+"category" : "refstoragemanual:access_and_grids",
 "pages" : [
 {
 "type" : "text",
-"text" : "The Storage Monitor is a block that displays the current amount of a certain item or fluid in your storage system. Mostly used for decoration."
+"text" : "The Storage Monitor is a block that displays the amount of a specific item or fluid in your storage network. It provides a visual indicator of resource levels."
+},
+{
+"type" : "text",
+"text" : "Features:$(li)Display item or fluid quantities$(li)Real-time updates$(li)Configurable display item$(li)Redstone output based on quantity$(li)Can be used with comparators"
+},
+{
+"type" : "text",
+"text" : "To use the Storage Monitor:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Right-click to configure$(li)Set the item or fluid to monitor$(li)Configure redstone output if desired"
 },
 {
 "type" : "crafting",
-"recipe" : "refinedstorage:storage_monitor",
-"text" : "Crafting Recipe."
+"recipe" : "refinedstorage:storage_monitor"
 }
-
 ]
 }

@@ -5,12 +5,12 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Used in $(l:pattern_grid)Pattern Grid$() for $(l:autocrafting)autocrafting$()."
+"text" : "Patterns are essential for setting up $(l:autocrafting)autocrafting$() within your Refined Storage network. They are used in the $(l:pattern_grid)Pattern Grid$() to encode crafting and processing recipes, which are then executed by Crafters to automate the production of items."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:pattern",
-"text" : "Crafting Recipe."
+"text" : "Pattern Crafting Recipe."
 }
 
 ]

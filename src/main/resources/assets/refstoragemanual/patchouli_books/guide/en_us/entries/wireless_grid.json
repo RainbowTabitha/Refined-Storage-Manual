@@ -1,0 +1,23 @@
+{
+  "name": "Wireless Grid",
+  "category": "refstoragemanual:tools_and_utilities",
+  "icon": "refinedstorage:wireless_grid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Wireless Grid is a portable version of the regular Grid that allows you to access your storage network from anywhere within range of a Wireless Transmitter."
+    },
+    {
+      "type": "text",
+      "text": "To use the Wireless Grid:$(li)Right-click while holding it to open the interface$(li)Insert a Network Card to connect to a wireless network$(li)Use it within range of a configured Wireless Transmitter$(li)Access and manage your items just like a regular Grid"
+    },
+    {
+      "type": "text",
+      "text": "The Wireless Grid supports all the same features as a regular Grid, including:$(li)Viewing and managing items$(li)Searching and filtering$(li)Sorting and grouping$(li)Using Grid Filters"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorage:wireless_grid"
+    }
+  ]
+} 

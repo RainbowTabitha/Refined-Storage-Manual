@@ -1,0 +1,23 @@
+{
+  "name": "Network Transmitter",
+  "category": "refstoragemanual:networking",
+  "icon": "refinedstorage:network_transmitter",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Network Transmitter is used to send signals to a Network Receiver, allowing you to create long-distance wireless networks."
+    },
+    {
+      "type": "text",
+      "text": "To use the Network Transmitter:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Insert a Network Card to configure the transmitting channel$(li)Ensure the channel matches the Network Receiver's channel"
+    },
+    {
+      "type": "text",
+      "text": "The Network Transmitter can be used to extend your network over long distances by sending signals to a Network Receiver. This allows you to create separate network segments that can communicate with each other."
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorage:network_transmitter"
+    }
+  ]
+} 

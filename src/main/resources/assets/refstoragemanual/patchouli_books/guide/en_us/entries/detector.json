@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Detector is a block that emits a redstone signal if an item or fluid count matches a given amount. It is also possible to be NBT or damage sensitive.$(br2)Types of criteria:$(br)> Emits signal when higher than given amount$(br)< Emits signal when lower than given amount$(br)= Emits signal when on given amount"
+"text" : "The Detector is a block that emits a redstone signal based on the quantity of items or fluids in your storage network. It supports NBT and damage sensitivity, and can be configured to trigger signals when quantities are above, below, or equal to a specified amount, making it a powerful tool for automated systems.$(br2)Types of criteria:$(br)> Emits signal when higher than given amount$(br)< Emits signal when lower than given amount$(br)= Emits signal when on given amount"
 },
 {
 "type" : "crafting",

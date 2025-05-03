@@ -1,0 +1,20 @@
+{
+"name" : "Getting Items In and Out",
+"icon" : "minecraft:hopper",
+"priority" : "true",
+"category" : "refstoragemanual:item_and_fluid_movement",
+"pages" : [
+{
+"type" : "text",
+"text" : "Refined Storage offers multiple ways to move items and fluids between your storage network and external inventories or the world. Understanding these different methods is crucial for building an efficient and automated storage system. Each approach has specific strengths and use cases, allowing you to design a system that perfectly fits your needs."
+},
+{
+"type" : "text",
+"text" : "Primary Input/Output Options:$(br)$(br)• $(l:importer)Importer$() - Pulls items/fluids from adjacent inventories into your network$(br)• $(l:exporter)Exporter$() - Pushes specific items/fluids from your network to adjacent inventories$(br)• $(l:interface)Interface$() - Functions as both an input and output point with advanced filtering options$(br)• $(l:constructor)Constructor$() - Places blocks or drops items from your network into the world$(br)• $(l:destructor)Destructor$() - Breaks blocks or picks up items from the world and adds them to your network"
+},
+{
+"type" : "text",
+"text" : "For more specialized operations:$(br)$(br)• $(l:disk_manipulator)Disk Manipulator$() - Transfers items between storage disks and your network$(br)• $(l:external)External Storage$() - Connects external inventories directly to your network$(br)• $(l:reader)Reader$() - Monitors inventory contents and emits redstone signals$(br)• $(l:writer)Writer$() - Inserts or extracts items based on redstone signals$(br)$(br)Each of these components can be upgraded with various $(l:upgradesrs)Upgrades$() to enhance their functionality, speed, and filtering capabilities."
+}
+]
+} 

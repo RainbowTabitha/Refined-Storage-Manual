@@ -1,0 +1,23 @@
+{
+  "name": "Regulator Upgrade",
+  "category": "refstoragemanual:processors_and_upgrades",
+  "icon": "refinedstorage:regulator_upgrade",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Regulator Upgrade allows machines to control the flow of items, ensuring that specific amounts are maintained in the network."
+    },
+    {
+      "type": "text",
+      "text": "Features:$(li)Controls item flow$(li)Maintains specific item amounts$(li)Works in machines like Exporters$(li)Increases power consumption"
+    },
+    {
+      "type": "text",
+      "text": "To use the Regulator Upgrade:$(li)Right-click on a compatible machine$(li)Insert the upgrade into an upgrade slot$(li)Configure the desired item amounts$(li)Machine will maintain specified quantities"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorage:regulator_upgrade"
+    }
+  ]
+} 

@@ -1,16 +1,16 @@
 {
 "name" : "Machine Casing",
 "icon" : "refinedstorage:machine_casing",
-"category" : "refstoragemanual:getting_started",
+"category" : "refstoragemanual:basics",
 "pages" : [
 {
 "type" : "text",
-"text" : "The Machine Casing is a block that is used to craft the various Refined Storage devices."
+"text" : "The Machine Casing is a fundamental component in the Refined Storage system, serving as the building block for crafting a variety of devices. It is essential for constructing the core infrastructure of your storage network, providing the framework for advanced machinery."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:machine_casing",
-"text" : "Crafting Recipe."
+"text" : "Machine Casing Crafting Recipe."
 }
 ]
 }

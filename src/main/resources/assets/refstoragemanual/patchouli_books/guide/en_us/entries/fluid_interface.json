@@ -1,11 +1,11 @@
 {
 "name" : "Fluid Interface",
 "icon" : "refinedstorage:fluid_interface",
-"category" : "refstoragemanual:networking",
+"category" : "refstoragemanual:fluid_storage",
 "pages" : [
 {
 "type" : "text",
-"text" : "The Fluid Interface is the same as an $(l:interface)Interface$() but for fluids. It has 2 internal tanks, one for input and one for output."
+"text" : "The Fluid Interface acts as a bridge between your Refined Storage network and external fluid systems. It features two internal tanks: one for input and one for output, allowing seamless transfer of fluids in and out of the network. This makes it an essential component for managing fluid logistics within your storage setup."
 },
 {
 "type" : "crafting",

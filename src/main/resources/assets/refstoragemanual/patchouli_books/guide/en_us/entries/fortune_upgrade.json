@@ -1,0 +1,34 @@
+{
+  "name": "Fortune Upgrade",
+  "category": "refstoragemanual:processors_and_upgrades",
+  "icon": "refinedstorage:fortune_1_upgrade",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Fortune Upgrade increases the fortune level when mining blocks through the Destructor. Each upgrade installed will increase the fortune level by 1. There are three levels of Fortune Upgrades available, with each level providing a higher base fortune effect."
+    },
+    {
+      "type": "text",
+      "text": "Features:$(li)Increases fortune level$(li)Works in Destructors$(li)Increases power consumption$(li)Three levels available (Fortune I, II, and III)$(li)Higher levels provide greater base fortune effect"
+    },
+    {
+      "type": "text",
+      "text": "To use the Fortune Upgrade:$(li)Right-click on a Destructor$(li)Insert the upgrade into an upgrade slot$(li)Multiple upgrades can be installed$(li)Each upgrade will increase power consumption$(li)Higher level upgrades provide more fortune per slot"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorage:fortune_1_upgrade",
+      "text": "Fortune I Upgrade - Provides base fortune level 1"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorage:fortune_2_upgrade",
+      "text": "Fortune II Upgrade - Provides base fortune level 2"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorage:fortune_3_upgrade",
+      "text": "Fortune III Upgrade - Provides base fortune level 3"
+    }
+  ]
+} 

@@ -6,19 +6,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Sometimes, you may have different areas all scattered throughout your world.$(br2)The problem$(br)Here is the problem: you want access to your Refined Storage system on all of those areas. You could lay Cable from your base to every area, but what if said area is 1000 blocks away? Are you really going to craft 1000 cables? Didn’t think so."
-},
-{
-"type" : "text",
-"text" : "The solution$(br)Use the $(l:transmitter)Network Transmitter$() and $(l:receiver)Network Receiver$(). Simply craft a Network Transmitter and connect it to your Refined Storage system in your main base. Next up, craft a Network Card. I’ll be telling what you need this for in a second, bear with me. After crafting a $(l:network_card)Network Card$(), craft a Network Receiver and place it in the area far away from your base. Take the Network Card and right click it on the Network Receiver. Put the Network Card in the Network Transmitter"
-},
-{
-"type" : "text",
-"text" : "so the Network Transmitter knows where to send a signal to. And now you are done. Simply connect machines to your Network Receiver according to the normal machine connecting rules. I suppose you could treat the Network Receiver as a Controller.$(br2)One very important thing to note$(br)The Controller in your main base and the Network Receiver in the other area both have to be chunkloaded before linking"
-},
-{
-"type" : "text",
-"text" : "it to the network. After linking, both areas have to stay chunkloaded."
+"text" : "In expansive worlds, you may have multiple areas scattered across vast distances.$(br2)The problem$(br)The challenge is accessing your Refined Storage system from all these locations. Running cables over long distances is impractical, especially if the area is 1000 blocks away.$(br2)The solution$(br)Utilize the $(l:transmitter)Network Transmitter$() and $(l:receiver)Network Receiver$(). First, craft a Network Transmitter and connect it to your main base's Refined Storage system. Then, craft a $(l:network_card)Network Card$() and a Network Receiver. Place the Network Receiver in the distant area. Right-click the Network Card on the Network Receiver to link them. Insert the Network Card into the Network Transmitter to establish the connection.$(br2)Important considerations$(br)Ensure both the Controller in your main base and the Network Receiver in the remote area are chunkloaded before linking. After linking, maintain chunkloading for both areas to ensure continuous operation."
 }
 ]
 }

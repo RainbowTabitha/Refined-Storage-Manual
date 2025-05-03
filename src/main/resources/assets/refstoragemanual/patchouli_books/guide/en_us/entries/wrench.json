@@ -1,16 +1,16 @@
 {
 "name" : "Wrench",
 "icon" : "refinedstorage:wrench",
-"category" : "refstoragemanual:tools",
+"category" : "refstoragemanual:tools_and_utilities",
 "pages" : [
 {
 "type" : "text",
-"text" : "Used only for rotating blocks."
+"text" : "The Wrench is a versatile tool used primarily for rotating blocks within the Refined Storage system. It can also be used to dismantle certain blocks without breaking them, allowing for easy repositioning and reconfiguration of your storage network."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:wrench",
-"text" : "Crafting Recipe."
+"text" : "Wrench Crafting Recipe."
 }
 ]
 }

@@ -5,11 +5,15 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Controller is the core of the Refined Storage network. You need to connect all the Refined Storage devices to this block. You can connect devices with $(l:cablers)cables$(). The Controller accepts and consumes any form of energy (including RF). Most mods have a way to generate energy, therefore Refined Storage doesn’t come by itself with a way to generate energy. Each Refined Storage network can"
+"text" : "The Controller is the central hub of your Refined Storage network, responsible for managing and distributing energy to all connected devices. It supports various energy types, including RF, and ensures efficient operation of your storage system. Each network requires a single Controller to function, making it a critical component in your setup."
 },
 {
 "type" : "text",
-"text" : "only have a single Controller. It doesn’t make sense to connect multiple controllers on the same network."
+"text" : "You need to connect all the Refined Storage devices to this block. You can connect devices with $(l:cablers)cables$(). The Controller accepts and consumes any form of energy (including RF). Most mods have a way to generate energy, therefore Refined Storage doesn't come by itself with a way to generate energy. Each Refined Storage network can"
+},
+{
+"type" : "text",
+"text" : "only have a single Controller. It doesn't make sense to connect multiple controllers on the same network."
 },
 {
 "type" : "crafting",

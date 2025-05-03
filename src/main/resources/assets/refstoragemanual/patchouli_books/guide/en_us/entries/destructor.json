@@ -1,11 +1,11 @@
 {
 "name" : "Destructor",
 "icon" : "refinedstorage:destructor",
-"category" : "refstoragemanual:networking",
+"category" : "refstoragemanual:item_and_fluid_movement",
 "pages" : [
 {
 "type" : "text",
-"text" : "The Destructor destroys blocks or fluids in front of it and puts the drops in the storage network. The Destructor has the ability to only break certain blocks or fluids, with the whitelist and blacklist option. Said whitelist and blacklist can be NBT or damage sensitive. The Destructor can also pick up items in the world instead of destroying blocks."
+"text" : "The Destructor is a versatile block that removes blocks or fluids from the world and transfers the resulting items into your storage network. It features whitelist and blacklist options for selective destruction, and can also pick up items directly, making it ideal for automated resource collection."
 },
 {
 "type" : "crafting",

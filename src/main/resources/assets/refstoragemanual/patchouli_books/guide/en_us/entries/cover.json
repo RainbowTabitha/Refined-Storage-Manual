@@ -1,0 +1,20 @@
+{
+"name" : "Cover",
+"icon" : "minecraft:tripwire_hook",
+"category" : "refstoragemanual:tools_and_utilities",
+"pages" : [
+{
+"type" : "text",
+"text" : "Covers are decorative blocks that conceal Refined Storage cables while still allowing connections to pass through. They can be crafted using almost any solid block, allowing you to match your cable covers to your building's aesthetic. Covers are essential for creating clean, visually appealing storage networks that blend seamlessly with your architectural style."
+},
+{
+"type" : "text",
+"text" : "To place a Cover, right-click it onto a cable. The cover will take on the appearance of the block used to craft it. To remove a Cover, use a Wrench on it. This versatility allows you to run complex cable networks through visible areas without compromising your build's appearance. Covers do not affect the functionality of the cables they conceal."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:cover",
+"text" : "Cover Crafting Recipe. Almost any solid block can be used in the recipe."
+}
+]
+} 

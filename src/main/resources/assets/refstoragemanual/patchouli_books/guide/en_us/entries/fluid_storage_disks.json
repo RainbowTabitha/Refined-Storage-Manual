@@ -1,31 +1,35 @@
 {
 "name" : "Fluid Storage Disks",
 "icon" : "refinedstorage:4096k_fluid_storage_disk",
-"category" : "refstoragemanual:disks_and_drives",
+"category" : "refstoragemanual:fluid_storage",
 "pages" : [
 {
 "type" : "text",
-"text" : "A Storage Disk is an item where items from the storage network are stored on. It has to be put in a $(l:disk_drive)Disk Drive$(). The Storage Disk won’t despawn when dropped in the world. You can also uncraft it by shift + right clicking with it in hand."
+"text" : "Fluid Storage Disks are specialized storage devices designed for storing fluids in your Refined Storage network. These disks must be inserted into a $(l:disk_drive)Disk Drive$() to function. Like regular storage disks, they are non-volatile and won't despawn when dropped in the world."
+},
+{
+"type" : "text",
+"text" : "Each disk can be uncrafted by shift + right-clicking with it in hand, returning:$(br)$(li)The corresponding Fluid Storage Part$(li)Storage Housing$(br2)Use these disks with a $(l:fluid_grid)Fluid Grid$() to view and manage stored fluids. Multiple disks can be combined in a single drive for expanded fluid storage capacity."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:64k_fluid_storage_disk",
-"text" : "64k Fluid Storage Disk's Crafting Recipe."
+"text" : "64k Fluid Storage Disk - Stores 64,000 mB of fluids"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:256k_fluid_storage_disk",
-"text" : "256k Fluid Storage Disk's Crafting Recipe."
+"text" : "256k Fluid Storage Disk - Stores 256,000 mB of fluids"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:1024k_fluid_storage_disk",
-"text" : "1024k Fluid Storage Disk's Crafting Recipe."
+"text" : "1024k Fluid Storage Disk - Stores 1,024,000 mB of fluids"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:4096k_fluid_storage_disk",
-"text" : "4096k Fluid Storage Disk's Crafting Recipe."
+"text" : "4096k Fluid Storage Disk - Stores 4,096,000 mB of fluids"
 }
 ]
 }

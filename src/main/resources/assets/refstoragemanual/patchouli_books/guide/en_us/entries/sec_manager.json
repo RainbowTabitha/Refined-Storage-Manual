@@ -5,16 +5,16 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Security Manager is a block that can store security cards. From it’s GUI, you can configure what permissions each player (that is bound with a $(l:security_card)Security Card$()) has. Once the Security Card is inserted in the top slots, the permissions for that player will be restricted to the ones configured.$(br2)Behavior$(br)When no security cards are"
+"text" : "The Security Manager is a critical block for managing access to your Refined Storage network. It stores security cards and allows you to configure permissions for each player linked with a $(l:security_card)Security Card$(). By inserting a Security Card into the top slots, you can restrict a player's permissions to those configured in the GUI.$(br2)Behavior$(br)When no security cards are active on the network, all players have full access. Insert security cards to define specific permissions for players. Players without a configured Security Card retain full access. To set global permissions for unconfigured players, insert an unbound Security Card into the Security Manager."
 },
 {
 "type" : "text",
-"text" : "active on the network, everyone has access to all permissions. Start inserting security cards to define permissions for players. Players who have no configured Security Card are still able to do everything in the network (all permissions). To configure a “global” set of permissions for all unconfigured players, configure a Security Card that isn’t bound to a player and insert it in the Security Manager"
+"text" : "When no security cards are active on the network, everyone has access to all permissions. Start inserting security cards to define permissions for players. Players who have no configured Security Card are still able to do everything in the network (all permissions). To configure a \"global\" set of permissions for all unconfigured players, configure a Security Card that isn't bound to a player and insert it in the Security Manager."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:security_manager",
-"text" : "Crafting Recipe."
+"text" : "Security Manager Crafting Recipe."
 }
 ]
 }

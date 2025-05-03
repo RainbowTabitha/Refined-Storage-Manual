@@ -1,20 +1,23 @@
 {
 "name" : "Fluid Grid",
 "icon" : "refinedstorage:fluid_grid",
-"category" : "refstoragemanual:grids",
+"category" : "refstoragemanual:access_and_grids",
 "pages" : [
 {
 "type" : "text",
-"text" : "The Fluid Grid is the same as a regular Grid, but is used for viewing fluids in the fluid storage of your storage network.$(br2)Inserting$(br)To insert a fluid, players can shift click on a fluid container like a bucket in their player inventory while in the Fluid Grid GUI. The player can also click the fluid container in the GUI to insert it."
+"text" : "The Fluid Grid is a specialized interface for viewing and managing fluids in your storage network. It provides a user interface to access all fluids stored in your network."
 },
 {
 "type" : "text",
-"text" : "Extracting$(br)Players can extract the fluid by clicking on it. The Fluid Grid will then fill a bucket with the selected fluid.Refined Storage will first search an empty bucket in your inventory. If none is found, a bucket will be searched in your storage network. Some fluids cannot be filled in a bucket, then the only way to extract those fluids is by using an $(l:exporter)Exporter$()."
+"text" : "Features:$(li)View all fluids in your storage network$(li)Search and filter fluids$(li)Sort fluids by name, quantity, or ID$(li)Group similar fluids together$(li)Use Grid Filters to create custom views$(li)View fluid amounts and storage tanks"
+},
+{
+"type" : "text",
+"text" : "To use the Fluid Grid:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Right-click to open the interface$(li)Use the search bar to find fluids$(li)Click fluids to extract them$(li)Use Grid Filters to customize your view"
 },
 {
 "type" : "crafting",
-"recipe" : "refinedstorage:fluid_grid",
-"text" : "Crafting Recipe."
+"recipe" : "refinedstorage:fluid_grid"
 }
 ]
 }

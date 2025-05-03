@@ -1,0 +1,23 @@
+{
+"name" : "Range Upgrade",
+"icon" : "refinedstorage:range_upgrade",
+"category" : "refstoragemanual:processors_and_upgrades",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Range Upgrade increases the wireless range of wireless devices. Each upgrade installed will extend the range by a certain amount."
+},
+{
+"type" : "text",
+"text" : "Features:$(li)Increases wireless range$(li)Can be stacked for greater effect$(li)Works in Wireless Transmitters$(li)Increases power consumption"
+},
+{
+"type" : "text",
+"text" : "To use the Range Upgrade:$(li)Right-click on a Wireless Transmitter$(li)Insert the upgrade into an upgrade slot$(li)Multiple upgrades can be installed$(li)Each upgrade will increase power consumption"
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:range_upgrade"
+}
+]
+} 

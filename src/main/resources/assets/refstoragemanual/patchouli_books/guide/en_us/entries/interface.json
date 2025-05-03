@@ -1,24 +1,16 @@
 {
 "name" : "Interface",
 "icon" : "refinedstorage:interface",
-"category" : "refstoragemanual:networking",
+"category" : "refstoragemanual:item_and_fluid_movement",
 "pages" : [
 {
 "type" : "text",
-"text" : "The Interface is a block that acts as a combination of the $(l:importer)Importer$() and the $(l:exporter)Exporter$().$(br2)Importing$(br)Let’s talk about the difference between an Importer and the Interface for importing. The Importer needs to be connected to an inventory to import items or fluids. It has no internal inventory and you can’t insert items directly to the Importer. In comparison with the"
-},
-{
-"type" : "text",
-"text" : "Importer the Interface has an internal inventory to receive items and import them (through piping, hoppers, etc). That internal inventory is accessable by opening the GUI and looking at the slots under “Interface Import”). The Interface does NOT extract items from adjacent inventories automatically, you have to actually insert them in the Interface through piping, hoppers, etc.$(br2)Exporting$(br)There is also an option for"
-},
-{
-"type" : "text",
-"text" : "exporting items from the system. These items can be piped out through a piping system from another mod, hoppers, etc. It can be configured to be NBT or damage sensitive.$(br)Output configuration$(br)Click an item in the export slots to configure that to be exported. Use left or right click on the item to change the amount. Use shift to clear the slot."
+"text" : "The Interface is a versatile block that combines the functionalities of both the $(l:importer)Importer$() and the $(l:exporter)Exporter$(). It serves as a bridge between your Refined Storage network and external inventories, allowing for both importing and exporting of items and fluids.$(br2)Importing$(br)Unlike the Importer, the Interface has an internal inventory that can receive items directly through pipes, hoppers, or other means. This internal inventory is accessible via the GUI under 'Interface Import'. Note that the Interface does not automatically extract items from adjacent inventories; they must be inserted manually.$(br2)Exporting$(br)The Interface can also export items from the system, which can be piped out using external mods, hoppers, etc. It supports NBT and damage-sensitive configurations. To configure output, click an item in the export slots and adjust the amount with left or right clicks. Use shift to clear the slot."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:interface",
-"text" : "Crafting Recipe."
+"text" : "Interface Crafting Recipe."
 }
 ]
 }

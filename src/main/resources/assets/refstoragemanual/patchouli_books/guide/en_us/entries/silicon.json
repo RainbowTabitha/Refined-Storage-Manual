@@ -1,11 +1,23 @@
 {
 "name" : "Silicon",
 "icon" : "refinedstorage:silicon",
-"category" : "refstoragemanual:getting_started",
+"category" : "refstoragemanual:basics",
 "pages" : [
 {
 "type" : "text",
-"text" : "Silicon is one of the main RS crafting getting_started. To make it you need to smelt Nether Quartz in a Furnace."
+"text" : "Silicon is a key material used in crafting electronic components for Refined Storage. It is created by processing quartz in a specific way."
+},
+{
+"type" : "text",
+"text" : "Features:$(li)Used in electronic components$(li)Required for processors$(li)Can be cut into smaller pieces$(li)Essential for advanced crafting"
+},
+{
+"type" : "text",
+"text" : "To craft Silicon:$(li)Process quartz in a specific way$(li)Can be automated with machines$(li)Used in many device recipes$(li)Can be stored in bulk"
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:silicon"
 }
 ]
 }

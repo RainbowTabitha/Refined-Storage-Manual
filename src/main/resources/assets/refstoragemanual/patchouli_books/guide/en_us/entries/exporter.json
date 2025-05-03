@@ -1,16 +1,16 @@
 {
 "name" : "Exporter",
 "icon" : "refinedstorage:exporter",
-"category" : "refstoragemanual:networking",
+"category" : "refstoragemanual:item_and_fluid_movement",
 "pages" : [
 {
 "type" : "text",
-"text" : "The Exporter extracts items or fluids from the storage network and inserts it in the inventory or tank in front of it. Before being able to export anything, the player has to choose the items or fluids to export. The chosen items can be configured to be NBT or damage sensitive. The Exporter should face the block it’s exporting to in a way that the wanted slot or fluid tank is possible to reach from that side."
+"text" : "The Exporter is a vital component for distributing items or fluids from your Refined Storage network to external inventories or tanks. It extracts specified resources from the network and inserts them into the connected inventory or tank. Users must configure the Exporter to specify which items or fluids to export, with options for NBT or damage sensitivity. Proper orientation is crucial to ensure the Exporter can access the desired slots or fluid tanks."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:exporter",
-"text" : "Crafting Recipe."
+"text" : "Exporter Crafting Recipe."
 }
 ]
 }

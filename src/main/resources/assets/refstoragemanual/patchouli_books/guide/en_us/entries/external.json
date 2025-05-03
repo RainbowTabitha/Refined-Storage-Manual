@@ -1,16 +1,16 @@
 {
 "name" : "External Storage",
 "icon" : "refinedstorage:external_storage",
-"category" : "refstoragemanual:networking",
+"category" : "refstoragemanual:item_and_fluid_movement",
 "pages" : [
 {
 "type" : "text",
-"text" : "The External Storage is a block that provides the storage network with storage of the inventory or fluid tank in front of the device."
+"text" : "The External Storage is a versatile block that connects external inventories or fluid tanks to your Refined Storage network, effectively expanding your storage capabilities. It allows the network to utilize the storage space of the connected inventory or tank, providing seamless integration and management of external resources."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:external_storage",
-"text" : "Crafting Recipe."
+"text" : "External Storage Crafting Recipe."
 }
 ]
 }

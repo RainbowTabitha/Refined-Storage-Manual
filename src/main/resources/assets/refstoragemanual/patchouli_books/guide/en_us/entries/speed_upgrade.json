@@ -1,0 +1,23 @@
+{
+"name" : "Speed Upgrade",
+"icon" : "refinedstorage:speed_upgrade",
+"category" : "refstoragemanual:processors_and_upgrades",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Speed Upgrade increases the processing speed of machines. Each upgrade installed will reduce the time between operations."
+},
+{
+"type" : "text",
+"text" : "Features:$(li)Reduces processing time$(li)Can be stacked for greater effect$(li)Works in machines like Importers, Exporters, and Constructors$(li)Increases power consumption"
+},
+{
+"type" : "text",
+"text" : "To use the Speed Upgrade:$(li)Right-click on a compatible machine$(li)Insert the upgrade into an upgrade slot$(li)Multiple upgrades can be installed$(li)Each upgrade will increase power consumption"
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:speed_upgrade"
+}
+]
+} 

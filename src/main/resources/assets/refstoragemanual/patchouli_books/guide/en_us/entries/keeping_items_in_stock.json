@@ -1,0 +1,15 @@
+{
+"name" : "Keeping Items in Stock",
+"icon" : "minecraft:chest",
+"category" : "refstoragemanual:auto_crafting",
+"pages" : [
+{
+"type" : "text",
+"text" : "Refined Storage allows you to keep specified items in stock by setting up automatic crafting tasks. This feature is essential for maintaining a reliable supply of frequently used resources. To implement this, use the Crafting Monitor's scheduling system, which will automatically trigger crafting tasks when item quantities fall below your defined thresholds. This proactive approach ensures your network always has critical items available when needed."
+},
+{
+"type" : "text",
+"text" : "To set up an item to be kept in stock, simply right-click on the item in any Grid interface while holding Ctrl. This opens an interface where you can specify the minimum quantity to maintain. The system will automatically queue crafting tasks whenever the stock falls below this level, provided you have the necessary patterns and resources available. For optimal performance, prioritize essential crafting components and finished products that you use frequently."
+}
+]
+} 

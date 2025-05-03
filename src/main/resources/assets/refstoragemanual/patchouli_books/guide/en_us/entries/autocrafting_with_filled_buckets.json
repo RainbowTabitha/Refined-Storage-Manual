@@ -1,0 +1,15 @@
+{
+"name" : "Autocrafting with Filled Buckets",
+"icon" : "minecraft:water_bucket",
+"category" : "refstoragemanual:auto_crafting",
+"pages" : [
+{
+"type" : "text",
+"text" : "Many crafting recipes require filled fluid buckets as ingredients. Refined Storage can automate this process by using fluids stored in your network to fill buckets on demand. This is achieved through processing patterns that convert empty buckets and stored fluids into filled buckets. The system handles both the extraction of fluids from storage and the management of buckets."
+},
+{
+"type" : "text",
+"text" : "To set up autocrafting with filled buckets, create a processing pattern with these inputs:$(br)• 1 empty bucket$(br)• 1000 mB of the desired fluid$(br)$(br)And this output:$(br)• 1 filled bucket$(br)$(br)Place this pattern in a Crafter connected to a fluid transposer or similar machine that can fill buckets. When a recipe requires a filled bucket, the system will automatically extract an empty bucket and the specified fluid, then process them to create the filled bucket needed for crafting."
+}
+]
+} 

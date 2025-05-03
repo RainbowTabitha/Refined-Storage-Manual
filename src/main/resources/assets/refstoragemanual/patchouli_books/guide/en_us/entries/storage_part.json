@@ -5,12 +5,12 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Used for making $(l:storage_disks)Storage Disks$() and $(l:storage_blocks)Storage Blocks$()."
+"text" : "Storage Parts are fundamental components used in crafting both $(l:storage_disks)Storage Disks$() and $(l:storage_blocks)Storage Blocks$(). They determine the storage capacity of the disks and blocks, making them essential for expanding your storage network."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:1k_storage_part",
-"text" : "1k Storage Part's Crafting Recipe."
+"text" : "1k Storage Part Crafting Recipe."
 },
 {
 "type" : "crafting",

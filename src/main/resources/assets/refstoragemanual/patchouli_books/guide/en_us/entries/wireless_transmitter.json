@@ -1,0 +1,23 @@
+{
+  "name": "Wireless Transmitter",
+  "category": "refstoragemanual:access_and_grids",
+  "icon": "refinedstorage:wireless_transmitter",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Wireless Transmitter is a key component for wireless networking in Refined Storage. It allows you to connect wireless devices to your network from a distance."
+    },
+    {
+      "type": "text",
+      "text": "To use the Wireless Transmitter:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Insert a Network Card to configure the wireless network$(li)Use wireless devices within the configured range"
+    },
+    {
+      "type": "text",
+      "text": "The range of the Wireless Transmitter can be increased by adding Range Upgrades. Each upgrade increases the range by 8 blocks, up to a maximum of 32 blocks with 3 upgrades."
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorage:wireless_transmitter"
+    }
+  ]
+}

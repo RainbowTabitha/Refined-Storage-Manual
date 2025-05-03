@@ -1,0 +1,16 @@
+{
+"name" : "Processor Binding",
+"icon" : "refinedstorage:processor_binding",
+"category" : "refstoragemanual:tools_and_utilities",
+"pages" : [
+{
+"type" : "text",
+"text" : "Processor Binding is used to craft the various processors."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:processor_binding",
+"text" : "Processor Binding Crafting Recipe."
+}
+]
+}

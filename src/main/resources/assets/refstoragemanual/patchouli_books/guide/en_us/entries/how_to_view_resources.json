@@ -1,0 +1,23 @@
+{
+  "name": "How to View Resources",
+  "category": "refstoragemanual:disks_and_drives",
+  "icon": "refinedstorage:grid",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Refined Storage provides several ways to view and interact with your stored items and fluids. This guide will help you understand the different viewing options available."
+    },
+    {
+      "type": "text",
+      "text": "Available Viewing Options:$(li)Grid - Basic item viewing and management$(li)Crafting Grid - Integrated crafting with JEI support$(li)Fluid Grid - Fluid storage management$(li)Storage Monitor - Real-time item/fluid quantity display$(li)Portable Grid - Mobile access to your network"
+    },
+    {
+      "type": "text",
+      "text": "Common Features:$(li)Search and filter items$(li)Sort and group items$(li)View item quantities$(li)Access crafting recipes$(li)Transfer items in and out$(li)Configure redstone behavior"
+    },
+    {
+      "type": "text",
+      "text": "Tips for Efficient Resource Management:$(li)Use Grid Filters for common views$(li)Set up multiple Grids for different purposes$(li)Place Storage Monitors for critical resources$(li)Use Portable Grids for remote access$(li)Configure redstone signals for automation"
+    }
+  ]
+} 

@@ -1,17 +1,23 @@
 {
 "name" : "Grid",
 "icon" : "refinedstorage:grid",
-"category" : "refstoragemanual:grids",
+"category" : "refstoragemanual:access_and_grids",
 "pages" : [
 {
 "type" : "text",
-"text" : "The Grid is a block that allows access to the items and fluids in the storage network. The player can extract items or fluids from the central GUI."
+"text" : "The Grid is a block that allows you to view and manage items in your storage network. It provides a user interface to access all items stored in your network."
+},
+{
+"type" : "text",
+"text" : "Features:$(li)View all items in your storage network$(li)Search and filter items$(li)Sort items by name, quantity, or ID$(li)Group similar items together$(li)Use Grid Filters to create custom views$(li)View item amounts and storage locations"
+},
+{
+"type" : "text",
+"text" : "To use the Grid:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Right-click to open the interface$(li)Use the search bar to find items$(li)Click items to take them out$(li)Use Grid Filters to customize your view"
 },
 {
 "type" : "crafting",
-"recipe" : "refinedstorage:grid",
-"text" : "Crafting Recipe."
+"recipe" : "refinedstorage:grid"
 }
-
 ]
 }

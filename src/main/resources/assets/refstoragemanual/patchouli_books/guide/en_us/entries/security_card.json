@@ -1,16 +1,16 @@
 {
 "name" : "Security Card",
 "icon" : "refinedstorage:security_card",
-"category" : "refstoragemanual:security",
+"category" : "refstoragemanual:tools_and_utilities",
 "pages" : [
 {
 "type" : "text",
-"text" : "Used for configuring $(l:sec_manager)Security Terminal$()."
+"text" : "The Security Card is a key component for managing access to your Refined Storage network. It is used in conjunction with the $(l:sec_manager)Security Terminal$() to configure user permissions, ensuring that only authorized players can interact with your storage system."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:security_card",
-"text" : "Crafting Recipe."
+"text" : "Security Card Crafting Recipe."
 }
 ]
 }

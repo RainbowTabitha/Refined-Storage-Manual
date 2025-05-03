@@ -5,12 +5,12 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "A Storage Housing is a $(l:storage_disks)Storage Disk$() or $(l:fluid_storage_disks)Fluid Storage Disk$() without any $(l:storage_parts)Storage Part$() or $(l:fluid_storage_parts)Fluid Storage Part$() assigned to it. The player can craft another Storage Disk or Fluid Storage Disk with this item by combining the Storage Housing with a Storage Part or Fluid Storage Part respectively."
+"text" : "Storage Housing serves as the foundational shell for creating $(l:storage_disks)Storage Disks$() and $(l:fluid_storage_disks)Fluid Storage Disks$(). It is an empty casing that can be combined with a $(l:storage_parts)Storage Part$() or $(l:fluid_storage_parts)Fluid Storage Part$() to form a complete disk. This flexibility allows players to upgrade or change their storage configurations as needed."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:storage_housing",
-"text" : "Crafting Recipe."
+"text" : "Storage Housing Crafting Recipe."
 }
 ]
 }

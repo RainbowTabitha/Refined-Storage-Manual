@@ -1,0 +1,15 @@
+{
+"name" : "Keeping Fluids in Stock",
+"icon" : "minecraft:water_bucket",
+"category" : "refstoragemanual:auto_crafting",
+"pages" : [
+{
+"type" : "text",
+"text" : "Similar to keeping items in stock, Refined Storage allows you to maintain specified quantities of fluids in your network. This feature ensures you always have essential fluids available for crafting and processing operations. The system works through the Fluid Grid interface, triggering automatic fluid crafting tasks when levels drop below your defined thresholds."
+},
+{
+"type" : "text",
+"text" : "To set up fluid stock management, right-click on any fluid in the Fluid Grid while holding Ctrl. This opens a configuration interface where you can specify the minimum amount (in mB) to maintain. The system will then automatically queue crafting tasks whenever fluid levels fall below this threshold, provided you have the necessary processing patterns and resources available. This is particularly useful for fluids used in multiple recipes or those that take time to produce."
+}
+]
+} 

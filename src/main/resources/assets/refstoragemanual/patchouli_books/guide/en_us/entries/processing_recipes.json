@@ -1,0 +1,19 @@
+{
+"name" : "Processing Recipes",
+"icon" : "minecraft:furnace",
+"category" : "refstoragemanual:auto_crafting",
+"pages" : [
+{
+"type" : "text",
+"text" : "Processing recipes in Refined Storage allow you to automate machine operations beyond standard crafting table recipes. These special patterns define both inputs and expected outputs for external machines like furnaces, pulverizers, or any other processing device. Unlike standard crafting patterns, processing patterns don't execute the recipe directly—instead, they manage the movement of resources to and from processing machines."
+},
+{
+"type" : "text",
+"text" : "To create a processing pattern, toggle the 'Processing' switch in the Pattern Grid interface. The grid will then display input slots on the left and output slots on the right. Place the input items (what goes into the machine) on the left, and the expected outputs (what the machine produces) on the right. For example, to automate ore smelting, place an iron ore in the input section and an iron ingot in the output section."
+},
+{
+"type" : "text",
+"text" : "When you place this pattern in a Crafter facing a compatible machine, the system will extract the specified inputs from your storage network and insert them into the machine. However, you must set up a way to return the processed outputs back to your network—typically using an Importer or Interface. The system recognizes a processing task as complete when it detects the expected output items returning to the network. This flexible system allows for automating virtually any machine-based processing in your modpack."
+}
+]
+} 

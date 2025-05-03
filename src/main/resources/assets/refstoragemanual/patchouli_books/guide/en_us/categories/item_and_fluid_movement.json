@@ -1,0 +1,6 @@
+{
+    "name": "Item & Fluid Movement",
+    "description": "Learn how to automatically move items and fluids in and out of your network using importers, exporters, constructors, and destructors.",
+    "icon": "refinedstorage:importer",
+    "sortnum": 4
+} 

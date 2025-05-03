@@ -1,0 +1,23 @@
+{
+  "name": "Network Receiver",
+  "category": "refstoragemanual:networking",
+  "icon": "refinedstorage:network_receiver",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Network Receiver is used to receive signals from a Network Transmitter, allowing you to create long-distance wireless networks."
+    },
+    {
+      "type": "text",
+      "text": "To use the Network Receiver:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Insert a Network Card to configure the receiving channel$(li)Ensure the channel matches the Network Transmitter's channel"
+    },
+    {
+      "type": "text",
+      "text": "The Network Receiver can be used to extend your network over long distances by receiving signals from a Network Transmitter. This allows you to create separate network segments that can communicate with each other."
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorage:network_receiver"
+    }
+  ]
+} 

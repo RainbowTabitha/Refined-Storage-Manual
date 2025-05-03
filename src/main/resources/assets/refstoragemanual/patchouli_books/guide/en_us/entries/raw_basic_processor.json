@@ -1,0 +1,16 @@
+{
+"name" : "Raw Basic Processor",
+"icon" : "refinedstorage:raw_basic_processor",
+"category" : "refstoragemanual:processors_and_upgrades",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Raw Basic Processor is an unrefined component that serves as the precursor to the Basic Processor. It must be smelted in a furnace to create the finished Basic Processor. This component combines silicon, redstone, and iron in a configuration that, when properly smelted, yields the computing capability needed for basic Refined Storage devices."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:raw_basic_processor",
+"text" : "Raw Basic Processor Crafting Recipe."
+}
+]
+} 

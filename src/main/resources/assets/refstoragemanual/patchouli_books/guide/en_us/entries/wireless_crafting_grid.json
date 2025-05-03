@@ -1,0 +1,25 @@
+{
+  "name": "Wireless Crafting Grid",
+  "category": "refstoragemanual:access_and_grids",
+  "icon": "refinedstorageaddons:wireless_crafting_grid",
+  "flag": "refinedstorageaddons",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Wireless Crafting Grid is a portable version of the regular Crafting Grid that allows you to craft items and access your storage network from anywhere within range of a Wireless Transmitter. Note: This item requires the Refined Storage Addons mod to be installed."
+    },
+    {
+      "type": "text",
+      "text": "To use the Wireless Crafting Grid:$(li)Right-click while holding it to open the interface$(li)Insert a Network Card to connect to a wireless network$(li)Use it within range of a configured Wireless Transmitter$(li)Access your items and craft just like a regular Crafting Grid$(li)Requires Refined Storage Addons mod"
+    },
+    {
+      "type": "text",
+      "text": "The Wireless Crafting Grid supports all the same features as a regular Crafting Grid, including:$(li)Viewing and managing items$(li)Searching and filtering$(li)Sorting and grouping$(li)Using Grid Filters$(li)Crafting items using the 3x3 crafting grid$(li)Accessing autocrafting patterns$(br2)Note: This item is only available when Refined Storage Addons is installed."
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorageaddons:wireless_crafting_grid",
+      "text": "Wireless Crafting Grid Crafting Recipe. Requires Refined Storage Addons mod."
+    }
+  ]
+} 

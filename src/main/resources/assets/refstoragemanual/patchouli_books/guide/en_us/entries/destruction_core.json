@@ -1,0 +1,23 @@
+{
+  "name": "Destruction Core",
+  "category": "refstoragemanual:processors_and_upgrades",
+  "icon": "refinedstorage:destruction_core",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Destruction Core is a specialized component used in devices that break or collect blocks and items from the world. It is essential for automation involving block breaking and collection."
+    },
+    {
+      "type": "text",
+      "text": "Features:$(li)Used in Destructor devices$(li)Enables block breaking automation$(li)Required for automated mining$(li)Part of advanced collection systems"
+    },
+    {
+      "type": "text",
+      "text": "Usage:$(li)Craft Destructors for automation$(li)Enable automated block breaking$(li)Part of automated harvesting systems$(li)Used in mining automation"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorage:destruction_core"
+    }
+  ]
+} 

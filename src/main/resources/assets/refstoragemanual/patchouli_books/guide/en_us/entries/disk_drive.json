@@ -5,12 +5,12 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Disk Drive is the block in which you store $(l:storage_disks)storage disks$() or $(l:fluid_storage_disks)fluid storage disks$()."
+"text" : "The Disk Drive is a critical component of your Refined Storage network, serving as the primary storage unit for $(l:storage_disks)storage disks$() and $(l:fluid_storage_disks)fluid storage disks$(). It allows for the efficient organization and retrieval of stored items and fluids, making it an essential part of any storage setup."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:disk_drive",
-"text" : "Crafting Recipe."
+"text" : "Disk Drive Crafting Recipe."
 }
 
 ]

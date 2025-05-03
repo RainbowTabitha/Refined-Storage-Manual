@@ -1,0 +1,17 @@
+{
+"name" : "Cables",
+"icon" : "refinedstorage:cable",
+"category" : "refstoragemanual:networking",
+"pages" : [
+{
+"type" : "text",
+"text" : "Cables are essential for connecting devices to the Controller in your Refined Storage network. While devices can connect directly if placed adjacent to each other, cables provide flexibility in network design, allowing you to extend connections over longer distances and around obstacles."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:cable",
+"text" : "Crafting Recipe."
+}
+
+]
+}

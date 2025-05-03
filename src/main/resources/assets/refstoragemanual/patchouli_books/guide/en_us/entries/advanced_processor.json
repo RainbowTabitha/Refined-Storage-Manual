@@ -1,0 +1,23 @@
+{
+"name" : "Advanced Processor",
+"icon" : "refinedstorage:advanced_processor",
+"category" : "refstoragemanual:processors_and_upgrades",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Advanced Processor is a high-tier processor used to craft the most advanced Refined Storage devices. It is more efficient and powerful than the Basic and Improved Processors."
+},
+{
+"type" : "text",
+"text" : "Features:$(li)Used in advanced device recipes$(li)More efficient than lower tier processors$(li)Required for high-end automation$(li)Used in wireless and autocrafting components"
+},
+{
+"type" : "text",
+"text" : "To craft the Advanced Processor:$(li)First craft a Raw Advanced Processor$(li)Smelt the Raw Advanced Processor in a furnace$(li)Combine with Processor Binding$(li)Requires more resources than lower tiers"
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:advanced_processor"
+}
+]
+} 

@@ -5,12 +5,12 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Network Receiver is the block that receives a signal from the $(l:transmitter)Network Transmitter$(). In order for the Network Receiver to work reliably the Network Receiver has to be chunkloaded. Read $(l:distance)this$() for more."
+"text" : "The Network Receiver is a vital component for extending your Refined Storage network across distances. It receives signals from the $(l:transmitter)Network Transmitter$(), allowing for seamless integration of remote storage systems. For optimal performance, ensure the Network Receiver is chunkloaded. Read $(l:distance)this$() for more details."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:network_receiver",
-"text" : "Crafting Recipe."
+"text" : "Network Receiver Crafting Recipe."
 }
 ]
 }

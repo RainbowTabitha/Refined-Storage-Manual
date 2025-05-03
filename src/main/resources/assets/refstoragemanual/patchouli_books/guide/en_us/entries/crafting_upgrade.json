@@ -1,0 +1,23 @@
+{
+"name" : "Crafting Upgrade",
+"icon" : "refinedstorage:crafting_upgrade",
+"category" : "refstoragemanual:processors_and_upgrades",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Crafting Upgrade enables autocrafting functionality in compatible machines. When an item is needed but not available, the machine will automatically schedule a crafting task."
+},
+{
+"type" : "text",
+"text" : "Features:$(li)Enables autocrafting$(li)Works in machines like Importers and Exporters$(li)Automatically schedules crafting tasks$(li)Increases power consumption"
+},
+{
+"type" : "text",
+"text" : "To use the Crafting Upgrade:$(li)Right-click on a compatible machine$(li)Insert the upgrade into an upgrade slot$(li)Configure the machine's crafting settings$(li)Machine will automatically craft missing items"
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:crafting_upgrade"
+}
+]
+} 

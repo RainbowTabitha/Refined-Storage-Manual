@@ -5,12 +5,12 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Used for crafting $(l:fluid_storage_disks)Fluid Storage Disks$() and $(l:fluid_storage_blocks)Fluid Storage Blocks$()."
+"text" : "Fluid Storage Parts are fundamental components used in crafting both $(l:fluid_storage_disks)Fluid Storage Disks$() and $(l:fluid_storage_blocks)Fluid Storage Blocks$(). They determine the storage capacity of the disks and blocks, making them essential for expanding your fluid storage capabilities within the network."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:64k_fluid_storage_part",
-"text" : "64k Fluid Storage Part's Crafting Recipe."
+"text" : "64k Fluid Storage Part Crafting Recipe."
 },
 {
 "type" : "crafting",

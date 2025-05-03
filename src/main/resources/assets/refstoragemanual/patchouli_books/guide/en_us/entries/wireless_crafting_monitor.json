@@ -1,0 +1,23 @@
+{
+  "name": "Wireless Crafting Monitor",
+  "category": "refstoragemanual:tools_and_utilities",
+  "icon": "refinedstorage:wireless_crafting_monitor",
+  "pages": [
+    {
+      "type": "text",
+      "text": "The Wireless Crafting Monitor is a portable version of the regular Crafting Monitor that allows you to monitor and manage autocrafting tasks from anywhere within range of a Wireless Transmitter."
+    },
+    {
+      "type": "text",
+      "text": "To use the Wireless Crafting Monitor:$(li)Right-click while holding it to open the interface$(li)Insert a Network Card to connect to a wireless network$(li)Use it within range of a configured Wireless Transmitter$(li)Monitor and manage autocrafting tasks just like a regular Crafting Monitor"
+    },
+    {
+      "type": "text",
+      "text": "The Wireless Crafting Monitor supports all the same features as a regular Crafting Monitor, including:$(li)Viewing active crafting tasks$(li)Canceling crafting tasks$(li)Viewing task progress$(li)Viewing required and missing items$(li)Starting new crafting tasks"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorage:wireless_crafting_monitor"
+    }
+  ]
+} 

@@ -1,0 +1,23 @@
+{
+  "name": "Upgrade",
+  "category": "refstoragemanual:processors_and_upgrades",
+  "icon": "refinedstorage:upgrade",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Upgrades are items that can be inserted into various Refined Storage machines to enhance their functionality. Each machine has specific upgrade slots that can accept different types of upgrades."
+    },
+    {
+      "type": "text",
+      "text": "Available upgrade types:$(li)Speed Upgrade - Increases machine processing speed$(li)Stack Upgrade - Increases item transfer amounts$(li)Range Upgrade - Increases wireless range$(li)Crafting Upgrade - Enables autocrafting$(li)Regulator Upgrade - Controls item flow$(li)Fortune Upgrade - Increases fortune level$(li)Silk Touch Upgrade - Enables silk touch$(li)Interdimensional Upgrade - Enables interdimensional access"
+    },
+    {
+      "type": "text",
+      "text": "To use upgrades:$(li)Right-click on a machine to open its interface$(li)Insert upgrades into the upgrade slots$(li)Some upgrades can be stacked for greater effect$(li)Different machines support different upgrade types"
+    },
+    {
+      "type": "crafting",
+      "recipe": "refinedstorage:upgrade"
+    }
+  ]
+} 

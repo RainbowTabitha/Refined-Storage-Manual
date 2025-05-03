@@ -1,16 +1,16 @@
 {
 "name" : "Importer",
 "icon" : "refinedstorage:importer",
-"category" : "refstoragemanual:networking",
+"category" : "refstoragemanual:item_and_fluid_movement",
 "pages" : [
 {
 "type" : "text",
-"text" : "The Importer imports items or fluids from an inventory in front of the block and inserts it in the storage network (if there is space). By default, it will import all accessible slots (place the Importer on the correct side, where the slot or fluid tank is reachable) but the player can use the whitelist or blacklist as well."
+"text" : "The Importer is a crucial component for integrating external inventories into your Refined Storage network. It transfers items or fluids from a connected inventory into the network, provided there is available space. By default, the Importer accesses all reachable slots, but players can configure it using whitelist or blacklist filters to control what is imported. Proper placement is essential to ensure the Importer can access the desired slots or fluid tanks."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:importer",
-"text" : "Crafting Recipe."
+"text" : "Importer Crafting Recipe."
 }
 ]
 }

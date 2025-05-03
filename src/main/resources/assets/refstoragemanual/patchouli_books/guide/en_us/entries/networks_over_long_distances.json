@@ -1,0 +1,23 @@
+{
+  "name": "Networks over Long Distances",
+  "category": "refstoragemanual:networking",
+  "icon": "refinedstorage:network_transmitter",
+  "pages": [
+    {
+      "type": "text",
+      "text": "Refined Storage allows you to extend your network over long distances using wireless components. This guide explains how to set up and maintain long-distance network connections."
+    },
+    {
+      "type": "text",
+      "text": "Required Components:$(li)Network Transmitter - Sends signals$(li)Network Receiver - Receives signals$(li)Network Card - Enables wireless functionality$(li)Range Upgrades - Extends transmission distance"
+    },
+    {
+      "type": "text",
+      "text": "Setup Process:$(li)Place Network Transmitter in source network$(li)Place Network Receiver in target network$(li)Configure both with matching channel$(li)Install Network Cards in wireless devices$(li)Add Range Upgrades to increase distance"
+    },
+    {
+      "type": "text",
+      "text": "Best Practices:$(li)Use Range Upgrades for longer distances$(li)Keep networks within chunk loading range$(li)Configure security settings if needed$(li)Monitor power consumption$(li)Use multiple transmitters for redundancy"
+    }
+  ]
+} 

@@ -1,17 +1,23 @@
 {
 "name" : "Portable Grid",
 "icon" : "refinedstorage:portable_grid",
-"category" : "refstoragemanual:grids",
+"category" : "refstoragemanual:tools_and_utilities",
 "pages" : [
 {
 "type" : "text",
-"text" : "The Portable Grid is a portable storage that isn’t connected to a network. It allows you to interact with a $(l:storage_disks)Storage Disk$() while not being connected to a network. As soon as you insert a Storage Disk, you can access the contents of your Storage Disk in the grid view."
+"text" : "The Portable Grid is a handheld version of the Grid that allows you to access your storage network from anywhere. It requires a Network Card to function."
+},
+{
+"type" : "text",
+"text" : "Features:$(li)Portable access to your storage network$(li)All features of a regular Grid$(li)Requires a Network Card$(li)Works within range of a Wireless Transmitter$(li)Can be used while moving"
+},
+{
+"type" : "text",
+"text" : "To use the Portable Grid:$(li)Insert a Network Card$(li)Use within range of a Wireless Transmitter$(li)Right-click to open the interface$(li)Use like a regular Grid$(li)Can be used while moving around"
 },
 {
 "type" : "crafting",
-"recipe" : "refinedstorage:portable_grid",
-"text" : "Crafting Recipe."
+"recipe" : "refinedstorage:portable_grid"
 }
-
 ]
 }
