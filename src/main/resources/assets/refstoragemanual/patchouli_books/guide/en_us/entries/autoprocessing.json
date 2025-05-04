@@ -6,23 +6,23 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Autoprocessing in Refined Storage allows you to automate the transformation of items that don't involve traditional crafting recipes, such as smelting ores into ingots. By using processing patterns, you can define both the input and output of these processes, enabling seamless automation of complex item transformations."
+"text" : "Autoprocessing in Refined Storage 2 allows you to automate the transformation of items that don't involve traditional crafting recipes with improved efficiency and reliability. By using processing patterns, you can define both the input and output of these processes, enabling seamless automation of complex item transformations with enhanced precision and better error handling."
 },
 {
 "type" : "text",
-"text" : "What are processing recipes?$(br)So far, in the $(l:autocrafting)first guide$() you learnt how to automate regular crafting recipes. But what if you want to automate the creation of items that don't involve a crafting recipe, like ores to ingots in a furnace? For this you use processing patterns.$(br2)Processing patterns$(br)You can create processing $(l:pattern)patterns$() in the $(l:pattern_grid)Pattern Grid$() by toggling the \"processing\" checkbox."
+"text" : "What are processing recipes?$(br)So far, in the $(l:autocrafting)first guide$() you learnt how to automate regular crafting recipes. But what if you want to automate the creation of items that don't involve a crafting recipe, like ores to ingots in a furnace? For this you use processing patterns with RS2's improved pattern validation and better mod compatibility.$(br2)Processing patterns$(br)You can create processing $(l:pattern)patterns$() in the $(l:pattern_grid)Pattern Grid$() by toggling the \"processing\" checkbox."
 },
 {
 "type" : "text",
-"text" : "The GUI will change and it'll allow you to define up to 9 inputs and outputs. Inputs are what Refined Storage will extract from your storage network. Outputs are what Refined Storage expects back in the network when the item has processed.$(br2)Example: Let's say you want to automate Iron Ore to Iron Ingot.$(br)In the input section you put 1 Iron Ore.$(br)In the output section you put 1 Iron Ingot."
+"text" : "The GUI will change and it'll allow you to define up to 9 inputs and outputs with enhanced control. Inputs are what Refined Storage will extract from your storage network. Outputs are what Refined Storage expects back in the network when the item has processed.$(br2)Example: Let's say you want to automate Iron Ore to Iron Ingot.$(br)In the input section you put 1 Iron Ore.$(br)In the output section you put 1 Iron Ingot."
 },
 {
 "type" : "text",
-"text" : "Inserting the pattern$(br)Make a $(l:crafter)Crafter$() and let it face the machine in a way it can input it in the correct slot. Insert the processing Pattern you just created in the Crafter facing the machine. When you now request the item, Refined Storage will insert the inputs in the machine. You do need to get the item manually back in the storage network so Refined Storage knows that the item has been processed."
+"text" : "Inserting the pattern$(br)Make a $(l:crafter)Crafter$() and let it face the machine in a way it can input it in the correct slot. Insert the processing Pattern you just created in the Crafter facing the machine. When you now request the item, Refined Storage 2 will insert the inputs in the machine with improved precision. You do need to get the item manually back in the storage network so Refined Storage knows that the item has been processed."
 },
 {
 "type" : "text",
-"text" : "You can use any device to get the item back in the storage network, like an $(l:interface)Interface$() or $(l:importer)Importer$().$(br2)Allowed tags$(br)The allowed tags system in Refined Storage allows the player to decide which items or fluids can be used as alternatives when the original specified item or fluid isn't found in the storage network. These tags are retrieved from Minecraft's tag system. You can specify the allowed tags in the Pattern Grid."
+"text" : "You can use any device to get the item back in the storage network, like an $(l:interface)Interface$() or $(l:importer)Importer$() with enhanced transfer rates.$(br2)Allowed tags$(br)The allowed tags system in Refined Storage 2 allows the player to decide which items or fluids can be used as alternatives when the original specified item or fluid isn't found in the storage network, now with improved tag handling. These tags are retrieved from Minecraft's tag system with better compatibility. You can specify the allowed tags in the Pattern Grid with enhanced control options."
 }
 ]
 }

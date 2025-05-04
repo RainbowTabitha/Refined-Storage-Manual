@@ -1,11 +1,11 @@
 {
   "name": "Fortune Upgrade",
-  "category": "refstoragemanual:processors_and_upgrades",
-  "icon": "refinedstorage:fortune_1_upgrade",
+  "category": "refstoragemanual:upgrades",
+  "icon": "refinedstorage:fortune_upgrade",
   "pages": [
     {
       "type": "text",
-      "text": "The Fortune Upgrade increases the fortune level when mining blocks through the Destructor. Each upgrade installed will increase the fortune level by 1. There are three levels of Fortune Upgrades available, with each level providing a higher base fortune effect."
+      "text": "The Fortune Upgrade in Refined Storage 2 enhances the Destructor's block breaking capabilities with improved efficiency and better reliability. When installed, it applies fortune-level effects to blocks broken by the Destructor, increasing resource yields with enhanced precision. RS2 features improved upgrade handling and better compatibility with modded blocks."
     },
     {
       "type": "text",

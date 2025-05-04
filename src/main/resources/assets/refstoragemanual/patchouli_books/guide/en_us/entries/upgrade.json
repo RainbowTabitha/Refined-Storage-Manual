@@ -5,19 +5,20 @@
   "pages": [
     {
       "type": "text",
-      "text": "Upgrades are items that can be inserted into various Refined Storage machines to enhance their functionality. Each machine has specific upgrade slots that can accept different types of upgrades."
+      "text": "Upgrades are items that can be inserted into various Refined Storage machines to enhance their functionality. In RS2, upgrades have been improved with better performance and enhanced compatibility. Each machine has specific upgrade slots that can accept different types of upgrades."
     },
     {
       "type": "text",
-      "text": "Available upgrade types:$(li)Speed Upgrade - Increases machine processing speed$(li)Stack Upgrade - Increases item transfer amounts$(li)Range Upgrade - Increases wireless range$(li)Crafting Upgrade - Enables autocrafting$(li)Regulator Upgrade - Controls item flow$(li)Fortune Upgrade - Increases fortune level$(li)Silk Touch Upgrade - Enables silk touch$(li)Interdimensional Upgrade - Enables interdimensional access"
+      "text": "Available upgrade types in RS2:$(li)Speed Upgrade - Improved processing speed boost$(li)Stack Upgrade - Enhanced item transfer capabilities$(li)Range Upgrade - Extended wireless range$(li)Crafting Upgrade - Better autocrafting integration$(li)Regulator Upgrade - Smarter item flow control$(li)Fortune Upgrade - Enhanced fortune compatibility$(li)Silk Touch Upgrade - Better silk touch handling$(li)Interdimensional Upgrade - Improved cross-dimensional stability"
     },
     {
       "type": "text",
-      "text": "To use upgrades:$(li)Right-click on a machine to open its interface$(li)Insert upgrades into the upgrade slots$(li)Some upgrades can be stacked for greater effect$(li)Different machines support different upgrade types"
+      "text": "To use upgrades:$(li)Right-click on a machine to open its interface$(li)Insert upgrades into the upgrade slots$(li)Some upgrades can be stacked for greater effect$(li)Different machines support different upgrade types$(br2)RS2's upgrade system features improved performance and better compatibility with other mods."
     },
     {
       "type": "crafting",
-      "recipe": "refinedstorage:upgrade"
+      "recipe": "refinedstorage:upgrade",
+      "text": "Upgrade Recipe"
     }
   ]
 } 

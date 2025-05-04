@@ -1,25 +1,25 @@
 {
   "name": "Wireless Crafting Grid",
   "category": "refstoragemanual:access_and_grids",
-  "icon": "refinedstorageaddons:wireless_crafting_grid",
-  "flag": "refinedstorageaddons",
+  "icon": "quartzarsenal:wireless_crafting_grid",
+  "flag": "quartzarsenal",
   "pages": [
     {
       "type": "text",
-      "text": "The Wireless Crafting Grid is a portable version of the regular Crafting Grid that allows you to craft items and access your storage network from anywhere within range of a Wireless Transmitter. Note: This item requires the Refined Storage Addons mod to be installed."
+      "text": "The Wireless Crafting Grid is a portable version of the regular Crafting Grid that allows you to craft items and access your storage network from anywhere within range of a Wireless Transmitter. In RS2, it features improved wireless performance and better power efficiency. Note: This item requires the Quartz Arsenal mod to be installed."
     },
     {
       "type": "text",
-      "text": "To use the Wireless Crafting Grid:$(li)Right-click while holding it to open the interface$(li)Insert a Network Card to connect to a wireless network$(li)Use it within range of a configured Wireless Transmitter$(li)Access your items and craft just like a regular Crafting Grid$(li)Requires Refined Storage Addons mod"
+      "text": "To use the Wireless Crafting Grid:$(li)Right-click while holding it to open the interface$(li)Insert a Network Card to connect to a wireless network$(li)Use it within range of a configured Wireless Transmitter$(li)Access your items and craft just like a regular Crafting Grid$(li)Requires Quartz Arsenal mod"
     },
     {
       "type": "text",
-      "text": "The Wireless Crafting Grid supports all the same features as a regular Crafting Grid, including:$(li)Viewing and managing items$(li)Searching and filtering$(li)Sorting and grouping$(li)Using Grid Filters$(li)Crafting items using the 3x3 crafting grid$(li)Accessing autocrafting patterns$(br2)Note: This item is only available when Refined Storage Addons is installed."
+      "text": "The Wireless Crafting Grid supports all the same features as a regular Crafting Grid, including:$(li)Enhanced viewing and managing items$(li)Improved searching and filtering$(li)Better sorting and grouping$(li)Advanced Grid Filters$(li)Crafting items using the 3x3 crafting grid$(li)Faster autocrafting pattern access$(br2)Note: This item is only available when Quartz Arsenal is installed."
     },
     {
       "type": "crafting",
-      "recipe": "refinedstorageaddons:wireless_crafting_grid",
-      "text": "Wireless Crafting Grid Crafting Recipe. Requires Refined Storage Addons mod."
+      "recipe": "quartzarsenal:wireless_crafting_grid",
+      "text": "Wireless Crafting Grid Recipe"
     }
   ]
-} 
+}

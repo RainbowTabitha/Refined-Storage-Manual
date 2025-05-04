@@ -5,15 +5,15 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Network Receiver is used to receive signals from a Network Transmitter, allowing you to create long-distance wireless networks."
+      "text": "The Network Receiver in Refined Storage 2 is used to receive signals from a Network Transmitter with enhanced stability and improved cross-dimensional support. RS2 features better signal reception and more reliable connections."
     },
     {
       "type": "text",
-      "text": "To use the Network Receiver:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Insert a Network Card to configure the receiving channel$(li)Ensure the channel matches the Network Transmitter's channel"
+      "text": "To use the Network Receiver:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Insert a Network Card to configure the receiving channel$(li)Ensure the channel matches the Network Transmitter's channel$(li)Monitor power usage for optimal performance$(li)Configure security settings if needed"
     },
     {
       "type": "text",
-      "text": "The Network Receiver can be used to extend your network over long distances by receiving signals from a Network Transmitter. This allows you to create separate network segments that can communicate with each other."
+      "text": "The Network Receiver can be used to extend your network over long distances by receiving signals from a Network Transmitter with improved reliability. This allows you to create separate network segments that can communicate with each other seamlessly. RS2 includes enhanced power efficiency and better chunk loading support."
     },
     {
       "type": "crafting",

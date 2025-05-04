@@ -5,15 +5,15 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Network Card is a crucial component for wireless networking in Refined Storage. It allows wireless devices to connect to specific wireless networks."
+"text" : "The Network Card in Refined Storage 2 is a crucial component for wireless networking, featuring enhanced security and improved reliability. It allows wireless devices to connect to specific wireless networks with better signal stability and power efficiency."
 },
 {
 "type" : "text",
-"text" : "To use the Network Card:$(li)Insert it into a Wireless Transmitter to create a wireless network$(li)Insert it into wireless devices to connect them to a network$(li)Configure the network channel to match between transmitter and devices$(li)Use it within range of the configured Wireless Transmitter"
+"text" : "To use the Network Card:$(li)Insert it into a Wireless Transmitter to create a wireless network$(li)Insert it into wireless devices to connect them to a network$(li)Configure the network channel to match between transmitter and devices$(li)Use it within range of the configured Wireless Transmitter$(li)Monitor signal strength for optimal performance$(li)Configure advanced security options"
 },
 {
 "type" : "text",
-"text" : "The Network Card can be configured with different channels to create separate wireless networks. This allows you to have multiple wireless networks in the same area without interference."
+"text" : "The Network Card can be configured with different channels to create separate wireless networks with improved isolation. This allows you to have multiple wireless networks in the same area without interference. RS2 features enhanced channel management and better cross-dimensional support."
 },
 {
 "type" : "crafting",

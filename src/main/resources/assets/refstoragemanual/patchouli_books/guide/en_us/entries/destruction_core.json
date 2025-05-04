@@ -5,15 +5,15 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Destruction Core is a specialized component used in devices that break or collect blocks and items from the world. It is essential for automation involving block breaking and collection."
+      "text": "The Destruction Core in Refined Storage 2 is a specialized component used in devices that break or collect blocks and items from the world with enhanced precision and improved reliability. It is essential for automation involving block breaking and collection, featuring better performance and improved mod compatibility."
     },
     {
       "type": "text",
-      "text": "Features:$(li)Used in Destructor devices$(li)Enables block breaking automation$(li)Required for automated mining$(li)Part of advanced collection systems"
+      "text": "Features:$(li)Used in Destructor devices with improved efficiency$(li)Enables block breaking automation with better precision$(li)Required for automated mining with enhanced performance$(li)Part of advanced collection systems$(li)Better mod compatibility$(li)Improved error handling"
     },
     {
       "type": "text",
-      "text": "Usage:$(li)Craft Destructors for automation$(li)Enable automated block breaking$(li)Part of automated harvesting systems$(li)Used in mining automation"
+      "text": "Usage:$(li)Craft Constructors for automation with enhanced control$(li)Enable automated block breaking with better accuracy$(li)Part of automated harvesting systems with improved efficiency$(li)Used in mining automation with better performance$(li)Enhanced block detection$(li)Improved collection speed"
     },
     {
       "type": "crafting",

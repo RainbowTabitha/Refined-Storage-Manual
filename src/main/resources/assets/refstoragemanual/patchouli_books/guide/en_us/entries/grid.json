@@ -5,19 +5,24 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Grid is a block that allows you to view and manage items in your storage network. It provides a user interface to access all items stored in your network."
+"text" : "The Grid in Refined Storage 2 has been completely revamped to provide a unified interface for both items and fluids. This integration eliminates the need for separate fluid grids, offering a more streamlined and efficient way to manage all your resources. The new Grid features enhanced performance, better organization capabilities, and improved search functionality."
 },
 {
 "type" : "text",
-"text" : "Features:$(li)View all items in your storage network$(li)Search and filter items$(li)Sort items by name, quantity, or ID$(li)Group similar items together$(li)Use Grid Filters to create custom views$(li)View item amounts and storage locations"
+"text" : "Key improvements:$(li)Unified item and fluid management$(li)Enhanced search capabilities$(li)Better sorting options$(li)Improved filter system$(li)Real-time updates$(li)Better mod compatibility$(li)Enhanced performance for large networks$(li)Improved resource visualization"
 },
 {
 "type" : "text",
-"text" : "To use the Grid:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Right-click to open the interface$(li)Use the search bar to find items$(li)Click items to take them out$(li)Use Grid Filters to customize your view"
+"text" : "Features:$(li)View all items and fluids in one interface$(li)Advanced search with new filters$(li)Sort by name, quantity, or mod$(li)Group similar items and fluids$(li)Customizable view settings$(li)Enhanced JEI/REI integration$(li)Better crafting integration$(li)Improved drag-and-drop support"
+},
+{
+"type" : "text",
+"text" : "Usage:$(li)Place within network range$(li)Connect to your network$(li)Right-click to open interface$(li)Use search bar for items/fluids$(li)Click to extract resources$(li)Shift-click for stack operations$(li)Use mouse wheel for quantity$(li)Configure view preferences"
 },
 {
 "type" : "crafting",
-"recipe" : "refinedstorage:grid"
+"recipe" : "refinedstorage:grid",
+"text" : "Grid Crafting Recipe"
 }
 ]
 }

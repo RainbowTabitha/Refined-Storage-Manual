@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Relay functions similarly to $(l:cable)Cable$(), but with the added ability to control the power state of connected devices based on redstone signals. This allows for greater control over your network, enabling or disabling devices as needed. The Relay is an essential component for managing power flow within your Refined Storage system."
+"text" : "The Relay in Refined Storage 2 functions similarly to $(l:cable)Cable$(), but with the added ability to control the power state of connected devices based on redstone signals. This allows for greater control over your network, enabling or disabling devices as needed. RS2 features improved redstone sensitivity and better power management capabilities."
 },
 {
 "type" : "crafting",

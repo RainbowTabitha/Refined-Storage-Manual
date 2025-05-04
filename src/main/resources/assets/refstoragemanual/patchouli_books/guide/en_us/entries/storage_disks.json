@@ -9,27 +9,27 @@
 },
 {
 "type" : "text",
-"text" : "Storage Disks can be uncrafted by shift + right-clicking with them in hand, returning:$(br)$(li)The corresponding Storage Part$(li)Storage Housing$(br2)When inserted into a Disk Drive, the network gains access to the disk's storage capacity. Multiple disks can be used in a single drive to expand storage capabilities."
+"text" : "Storage Disks can be uncrafted by shift + right-clicking with them in hand, returning:$(br)$(li)The corresponding Storage Part$(li)Storage Housing$(br2)When inserted into a Disk Drive, the network gains access to the disk's storage capacity. Multiple disks can be used in a single drive to expand storage capabilities.$(br2)Available capacities:$(br)$(li)1k Storage Disk (1,000 items)$(li)4k Storage Disk (4,000 items)$(li)16k Storage Disk (16,000 items)$(li)64k Storage Disk (64,000 items)"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:1k_storage_disk",
-"text" : "1k Storage Disk - Stores 1,000 items. Combines a 1k Storage Part with Storage Housing."
+"text" : "1k Storage Disk Recipe"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:4k_storage_disk",
-"text" : "4k Storage Disk - Stores 4,000 items. Combines a 4k Storage Part with Storage Housing."
+"text" : "4k Storage Disk Recipe"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:16k_storage_disk",
-"text" : "16k Storage Disk - Stores 16,000 items. Combines a 16k Storage Part with Storage Housing."
+"text" : "16k Storage Disk Recipe"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:64k_storage_disk",
-"text" : "64k Storage Disk - Stores 64,000 items. Combines a 64k Storage Part with Storage Housing."
+"text" : "64k Storage Disk Recipe"
 }
 ]
 }

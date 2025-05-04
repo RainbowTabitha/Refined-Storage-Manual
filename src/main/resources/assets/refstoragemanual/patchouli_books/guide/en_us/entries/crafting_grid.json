@@ -5,19 +5,19 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Crafting Grid is similar to a regular Grid but includes a crafting inventory. It allows you to craft items using materials from your storage network."
+"text" : "The Crafting Grid in Refined Storage 2 is similar to a regular Grid but includes a crafting inventory with enhanced functionality. It allows you to craft items using materials from your storage network with improved efficiency and better item handling."
 },
 {
 "type" : "text",
-"text" : "Features:$(li)All features of a regular Grid$(li)Integrated crafting inventory$(li)JEI recipe transfer support$(li)Automatic item retrieval from network$(li)CTRL + CLICK to start autocrafting missing items"
+"text" : "Features:$(li)All features of a regular Grid$(li)Integrated crafting inventory with improved performance$(li)Enhanced JEI recipe transfer support$(li)Automatic item retrieval from network with better accuracy$(li)CTRL + CLICK to start autocrafting missing items$(li)Improved crafting validation"
 },
 {
 "type" : "text",
-"text" : "To use the Crafting Grid:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Right-click to open the interface$(li)Use JEI to transfer recipes$(li)CTRL + CLICK missing items to start autocrafting$(li)Use the crafting grid to craft items"
+"text" : "To use the Crafting Grid:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Right-click to open the interface$(li)Use JEI to transfer recipes with enhanced compatibility$(li)CTRL + CLICK missing items to start autocrafting$(li)Use the crafting grid to craft items with improved precision"
 },
 {
 "type" : "text",
-"text" : "You can recolor the Crafting Grid in two ways:$(li)Using a dye on the Crafting Grid$(li)Combining the block with a dye in a crafting recipe"
+"text" : "You can recolor the Crafting Grid in two ways with enhanced visual options:$(li)Using a dye on the Crafting Grid$(li)Combining the block with a dye in a crafting recipe$(li)Better color integration$(li)Improved visual feedback"
 },
 {
 "type" : "crafting",

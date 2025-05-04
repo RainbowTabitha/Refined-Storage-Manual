@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Detector is a block that emits a redstone signal based on the quantity of items or fluids in your storage network. It supports NBT and damage sensitivity, and can be configured to trigger signals when quantities are above, below, or equal to a specified amount, making it a powerful tool for automated systems.$(br2)Types of criteria:$(br)> Emits signal when higher than given amount$(br)< Emits signal when lower than given amount$(br)= Emits signal when on given amount"
+"text" : "The Detector in Refined Storage 2 is a block that emits a redstone signal based on the quantity of items or fluids in your storage network with enhanced precision and improved reliability. It supports NBT and damage sensitivity with better detection capabilities, and can be configured to trigger signals when quantities are above, below, or equal to a specified amount with improved accuracy, making it a powerful tool for automated systems. RS2 features better signal handling and enhanced performance.$(br2)Types of criteria:$(br)> Emits signal when higher than given amount with improved precision$(br)< Emits signal when lower than given amount with better accuracy$(br)= Emits signal when on given amount with enhanced reliability"
 },
 {
 "type" : "crafting",

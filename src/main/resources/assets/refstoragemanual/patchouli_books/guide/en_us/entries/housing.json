@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Storage Housing serves as the foundational shell for creating $(l:storage_disks)Storage Disks$() and $(l:fluid_storage_disks)Fluid Storage Disks$(). It is an empty casing that can be combined with a $(l:storage_parts)Storage Part$() or $(l:fluid_storage_parts)Fluid Storage Part$() to form a complete disk. This flexibility allows players to upgrade or change their storage configurations as needed."
+"text" : "Storage Housing in Refined Storage 2 serves as the foundational shell for creating $(l:storage_disks)Storage Disks$() and $(l:fluid_storage_disks)Fluid Storage Disks$() with improved durability and reliability. It is an empty casing that can be combined with a $(l:storage_parts)Storage Part$() or $(l:fluid_storage_parts)Fluid Storage Part$() to form a complete disk. This flexibility allows players to upgrade or change their storage configurations as needed, now with better performance and enhanced data integrity."
 },
 {
 "type" : "crafting",

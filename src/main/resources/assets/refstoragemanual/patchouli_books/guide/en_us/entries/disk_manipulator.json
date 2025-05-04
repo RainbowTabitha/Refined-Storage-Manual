@@ -5,11 +5,11 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Disk Manipulator is a specialized block that transfers items and fluids between storage disks and your Refined Storage network. It can operate in three modes: insert (moving items from the network to disks), extract (moving items from disks to the network), or both simultaneously. This component is particularly useful for managing offline storage, backing up specific resources, or transferring items between separate networks."
+"text" : "The Disk Manipulator in Refined Storage 2 is a specialized block that transfers items and fluids between storage disks and your network with enhanced efficiency and improved reliability. It can operate in three modes: insert (moving items from the network to disks), extract (moving items from disks to the network), or both simultaneously with better performance. This component is particularly useful for managing offline storage, backing up specific resources, or transferring items between separate networks with improved speed and accuracy."
 },
 {
 "type" : "text",
-"text" : "The Disk Manipulator has slots for up to 9 storage disks of any type. Its filtering system allows precise control over which items are transferred, supporting whitelist/blacklist configuration and NBT/metadata matching. When combined with redstone control, the Disk Manipulator can be automated to perform scheduled backups or conditional transfers based on network states. Speed upgrades can significantly enhance transfer rates for large operations."
+"text" : "The Disk Manipulator has slots for up to 9 storage disks of any type with enhanced management capabilities. Its filtering system allows precise control over which items are transferred, supporting whitelist/blacklist configuration and NBT/metadata matching with improved accuracy. When combined with redstone control, the Disk Manipulator can be automated to perform scheduled backups or conditional transfers based on network states with better reliability. Speed upgrades can significantly enhance transfer rates for large operations with improved efficiency. RS2 features better disk handling and enhanced performance monitoring."
 },
 {
 "type" : "crafting",

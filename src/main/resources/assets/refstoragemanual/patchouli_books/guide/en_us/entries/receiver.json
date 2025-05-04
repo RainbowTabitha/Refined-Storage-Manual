@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Network Receiver is a vital component for extending your Refined Storage network across distances. It receives signals from the $(l:transmitter)Network Transmitter$(), allowing for seamless integration of remote storage systems. For optimal performance, ensure the Network Receiver is chunkloaded. Read $(l:distance)this$() for more details."
+"text" : "The Network Receiver in Refined Storage 2 is a vital component for extending your Refined Storage network across distances with improved reliability. It receives signals from the $(l:transmitter)Network Transmitter$() with enhanced stability and better cross-dimensional support. For optimal performance, ensure the Network Receiver is chunkloaded. RS2 features improved signal handling and better power efficiency."
 },
 {
 "type" : "crafting",

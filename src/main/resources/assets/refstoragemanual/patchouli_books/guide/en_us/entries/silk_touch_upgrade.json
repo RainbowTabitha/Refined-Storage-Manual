@@ -5,19 +5,20 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Silk Touch Upgrade enables silk touch functionality in the Destructor, allowing it to mine blocks without breaking them."
+      "text": "The Silk Touch Upgrade enables silk touch functionality in the Destructor. RS2 brings improved block state handling and better compatibility with modded blocks."
     },
     {
       "type": "text",
-      "text": "Features:$(li)Enables silk touch mining$(li)Works in Destructors$(li)Preserves block states$(li)Increases power consumption"
+      "text": "Features:$(li)Enhanced silk touch functionality$(li)Improved block state preservation$(li)Better modded block compatibility$(li)Optimized power consumption$(li)Works seamlessly with RS2 systems"
     },
     {
       "type": "text",
-      "text": "To use the Silk Touch Upgrade:$(li)Right-click on a Destructor$(li)Insert the upgrade into an upgrade slot$(li)Destructor will now mine blocks with silk touch$(li)Increases power consumption"
+      "text": "To use the Silk Touch Upgrade:$(li)Right-click on a Destructor$(li)Insert the upgrade into an upgrade slot$(li)Destructor will now mine blocks with silk touch$(li)Enjoy improved performance with RS2"
     },
     {
       "type": "crafting",
-      "recipe": "refinedstorage:silk_touch_upgrade"
+      "recipe": "refinedstorage:silk_touch_upgrade",
+      "text": "Silk Touch Upgrade Recipe"
     }
   ]
 } 

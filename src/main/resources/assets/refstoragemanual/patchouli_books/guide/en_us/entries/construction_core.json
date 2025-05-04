@@ -5,15 +5,15 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Construction Core is a specialized component used in devices that place or construct blocks and items in the world. It is essential for automation involving block placement."
+      "text": "The Construction Core in Refined Storage 2 is a specialized component used in devices that place or construct blocks and items in the world with enhanced precision. It is essential for automation involving block placement, featuring improved reliability and better mod compatibility."
     },
     {
       "type": "text",
-      "text": "Features:$(li)Used in Constructor devices$(li)Enables block placement automation$(li)Required for automated building$(li)Part of advanced automation systems"
+      "text": "Features:$(li)Used in Constructor devices$(li)Enables block placement automation$(li)Required for automated building$(li)Part of advanced automation systems$(li)Enhanced placement accuracy$(li)Better mod support"
     },
     {
       "type": "text",
-      "text": "Usage:$(li)Craft Constructors for automation$(li)Enable automated block placement$(li)Part of automated farming systems$(li)Used in building automation"
+      "text": "Usage:$(li)Craft Constructors for automation$(li)Enable automated block placement$(li)Part of automated farming systems$(li)Used in building automation$(li)Improved placement control$(li)Better performance"
     },
     {
       "type": "crafting",

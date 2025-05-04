@@ -5,19 +5,19 @@
   "pages": [
     {
       "type": "text",
-      "text": "Refined Storage provides several ways to view and interact with your stored items and fluids. This guide will help you understand the different viewing options available."
+      "text": "Refined Storage 2 provides several ways to view and interact with your stored items and fluids with enhanced functionality and improved performance. This guide will help you understand the different viewing options available in RS2."
     },
     {
       "type": "text",
-      "text": "Available Viewing Options:$(li)Grid - Basic item viewing and management$(li)Crafting Grid - Integrated crafting with JEI support$(li)Fluid Grid - Fluid storage management$(li)Storage Monitor - Real-time item/fluid quantity display$(li)Portable Grid - Mobile access to your network"
+      "text": "Available Viewing Options:$(li)Grid - Basic item viewing and management with improved performance$(li)Crafting Grid - Integrated crafting with enhanced JEI support$(li)Fluid Grid - Fluid storage management with better visualization$(li)Storage Monitor - Real-time item/fluid quantity display with improved accuracy$(li)Portable Grid - Mobile access to your network with enhanced security"
     },
     {
       "type": "text",
-      "text": "Common Features:$(li)Search and filter items$(li)Sort and group items$(li)View item quantities$(li)Access crafting recipes$(li)Transfer items in and out$(li)Configure redstone behavior"
+      "text": "Common Features:$(li)Search and filter items with improved accuracy$(li)Sort and group items with better organization$(li)View item quantities with real-time updates$(li)Access crafting recipes with enhanced mod support$(li)Transfer items in and out with better efficiency$(li)Configure redstone behavior with improved control"
     },
     {
       "type": "text",
-      "text": "Tips for Efficient Resource Management:$(li)Use Grid Filters for common views$(li)Set up multiple Grids for different purposes$(li)Place Storage Monitors for critical resources$(li)Use Portable Grids for remote access$(li)Configure redstone signals for automation"
+      "text": "Tips for Efficient Resource Management:$(li)Use Grid Filters for common views with better organization$(li)Set up multiple Grids for different purposes$(li)Place Storage Monitors for critical resources$(li)Use Portable Grids for remote access with enhanced security$(li)Configure redstone signals for automation with improved reliability"
     }
   ]
 } 

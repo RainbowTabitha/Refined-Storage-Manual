@@ -1,23 +1,24 @@
 {
 "name" : "Fluid Grid",
-"icon" : "refinedstorage:fluid_grid",
-"category" : "refstoragemanual:access_and_grids",
+"icon" : "refinedstorage:grid",
+"category" : "refstoragemanual:grids",
 "pages" : [
 {
 "type" : "text",
-"text" : "The Fluid Grid is a specialized interface for viewing and managing fluids in your storage network. It provides a user interface to access all fluids stored in your network."
+"text" : "In Refined Storage 2, fluid management has been integrated directly into the main Grid interface with enhanced performance and improved reliability. The separate Fluid Grid has been removed to provide a more streamlined experience. The main Grid now handles both items and fluids with better organization and filtering capabilities. RS2 features improved fluid handling and better mod compatibility."
 },
 {
 "type" : "text",
-"text" : "Features:$(li)View all fluids in your storage network$(li)Search and filter fluids$(li)Sort fluids by name, quantity, or ID$(li)Group similar fluids together$(li)Use Grid Filters to create custom views$(li)View fluid amounts and storage tanks"
+"text" : "Features:$(li)View all items and fluids in your storage network$(li)Search and filter both items and fluids$(li)Sort by name, quantity, or ID$(li)Group similar items and fluids together$(li)Use Grid Filters to create custom views$(li)View fluid amounts and storage tanks"
 },
 {
 "type" : "text",
-"text" : "To use the Fluid Grid:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Right-click to open the interface$(li)Use the search bar to find fluids$(li)Click fluids to extract them$(li)Use Grid Filters to customize your view"
+"text" : "To use the Grid for fluids:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Right-click to open the interface$(li)Use the search bar to find fluids$(li)Click fluids to extract them$(li)Use Grid Filters to customize your view"
 },
 {
 "type" : "crafting",
-"recipe" : "refinedstorage:fluid_grid"
+"recipe" : "refinedstorage:fluid_grid",
+"text" : "Fluid Grid Crafting Recipe."
 }
 ]
 }

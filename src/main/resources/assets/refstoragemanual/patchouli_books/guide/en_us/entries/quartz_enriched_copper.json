@@ -1,0 +1,24 @@
+{
+"name" : "Quartz Enriched Copper",
+"icon" : "refinedstorage:quartz_enriched_copper",
+"category" : "refstoragemanual:basics",
+"pages" : [
+{
+"type" : "text",
+"text" : "Quartz Enriched Copper is an enhanced material that combines the processing capabilities of Quartz with the conductivity of Copper. This material is essential for crafting components that require efficient energy transfer and signal processing."
+},
+{
+"type" : "text",
+"text" : "Properties:$(li)Enhanced conductivity for better energy transfer$(li)Improved signal processing capabilities$(li)Better heat dissipation$(br2)This material is particularly useful in crafting components that handle large amounts of data or energy transfer."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:quartz_enriched_copper",
+"text" : "Quartz Enriched Copper Recipe"
+},
+{
+"type" : "text",
+"text" : "Uses:$(li)Network Transmitters$(li)Wireless Transmitters$(li)Advanced Processors$(li)Signal Processors$(br2)The enhanced conductivity makes it ideal for components that need to transfer data or energy over long distances."
+}
+]
+} 

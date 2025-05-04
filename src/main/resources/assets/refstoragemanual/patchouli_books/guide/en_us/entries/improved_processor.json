@@ -5,15 +5,15 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Improved Processor is a mid-tier processor used to craft intermediate Refined Storage devices. It offers better performance than the Basic Processor but is less expensive than the Advanced Processor."
+"text" : "The Improved Processor in Refined Storage 2 is a mid-tier processor used to craft intermediate Refined Storage devices with enhanced performance. It offers better efficiency than the Basic Processor but is less expensive than the Advanced Processor, now featuring improved power management and better processing capabilities."
 },
 {
 "type" : "text",
-"text" : "Features:$(li)Used in intermediate device recipes$(li)More efficient than Basic Processor$(li)Used in automation and processing components$(li)Balanced cost and performance"
+"text" : "Features:$(li)Used in intermediate device recipes$(li)More efficient than Basic Processor$(li)Used in automation and processing components$(li)Balanced cost and performance$(li)Improved power efficiency$(li)Better processing speed"
 },
 {
 "type" : "text",
-"text" : "To craft the Improved Processor:$(li)First craft a Raw Improved Processor$(li)Smelt the Raw Improved Processor in a furnace$(li)Combine with Processor Binding$(li)Requires moderate resources"
+"text" : "To craft the Improved Processor:$(li)First craft a Raw Improved Processor$(li)Smelt the Raw Improved Processor in a furnace$(li)Combine with Processor Binding$(li)Requires moderate resources$(li)Enhanced quality control"
 },
 {
 "type" : "crafting",

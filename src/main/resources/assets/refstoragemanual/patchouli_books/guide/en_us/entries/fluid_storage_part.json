@@ -5,27 +5,27 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Fluid Storage Parts are fundamental components used in crafting both $(l:fluid_storage_disks)Fluid Storage Disks$() and $(l:fluid_storage_blocks)Fluid Storage Blocks$(). They determine the storage capacity of the disks and blocks, making them essential for expanding your fluid storage capabilities within the network."
+"text" : "In Refined Storage 2, fluid storage parts have been enhanced with improved efficiency and better integration. These components are used to craft fluid storage disks, featuring enhanced capacity and improved reliability. RS2 features better fluid handling and enhanced storage management."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:64k_fluid_storage_part",
-"text" : "64k Fluid Storage Part Crafting Recipe."
+"text" : "64k Fluid Storage Part Recipe"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:256k_fluid_storage_part",
-"text" : "256k Fluid Storage Part's Crafting Recipe."
+"text" : "256k Fluid Storage Part Recipe"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:1024k_fluid_storage_part",
-"text" : "1024k Fluid Storage Part's Crafting Recipe."
+"text" : "1024k Fluid Storage Part Recipe"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:4096k_fluid_storage_part",
-"text" : "4096k Fluid Storage Part's Crafting Recipe."
+"text" : "4096k Fluid Storage Part Recipe"
 }
 ]
 }

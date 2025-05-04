@@ -5,11 +5,11 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Refined Storage's locking mechanism allows you to control when crafting tasks can be started. This feature is particularly useful for managing complex crafting operations or preventing resource conflicts. When a crafting system is locked, no new crafting tasks can be initiated, though existing ones will continue to process."
+"text" : "Refined Storage 2's locking mechanism allows you to control when crafting tasks can be started with enhanced security and reliability. This feature is particularly useful for managing complex crafting operations or preventing resource conflicts. When a crafting system is locked, no new crafting tasks can be initiated, though existing ones will continue to process. RS2 features improved locking controls and better security options."
 },
 {
 "type" : "text",
-"text" : "To lock or unlock crafting, open the Crafting Monitor and click the lock icon in the interface. When locked, the system will reject new crafting requests until manually unlocked. This provides greater control over automated processes, especially in large networks where multiple users might be requesting crafting operations simultaneously. You can also use redstone signals to automate the locking and unlocking process, creating sophisticated crafting control systems."
+"text" : "To lock or unlock crafting, open the Crafting Monitor and click the lock icon in the interface. When locked, the system will reject new crafting requests until manually unlocked. This provides greater control over automated processes, especially in large networks where multiple users might be requesting crafting operations simultaneously. RS2 includes improved redstone control and better automation integration. You can also use redstone signals to automate the locking and unlocking process, creating sophisticated crafting control systems with enhanced reliability."
 }
 ]
 } 

@@ -1,20 +1,20 @@
 {
 "name" : "Getting Items In and Out",
-"icon" : "minecraft:hopper",
+"icon" : "refinedstorage:importer",
 "priority" : "true",
 "category" : "refstoragemanual:item_and_fluid_movement",
 "pages" : [
 {
 "type" : "text",
-"text" : "Refined Storage offers multiple ways to move items and fluids between your storage network and external inventories or the world. Understanding these different methods is crucial for building an efficient and automated storage system. Each approach has specific strengths and use cases, allowing you to design a system that perfectly fits your needs."
+"text" : "Refined Storage 2 offers several enhanced methods for moving items and fluids in and out of your storage network with improved efficiency and better reliability. The main components for this are:$(br2)$(l:importer)Importer$() - Moves items/fluids into your network with enhanced speed$(br)$(l:exporter)Exporter$() - Moves items/fluids out of your network with improved precision$(br)$(l:external)External Storage$() - Connects external inventories with better integration$(br)$(l:interface)Interface$() - Handles both automated insertion and extraction with enhanced capabilities$(br)$(l:constructor)Constructor$() - Places blocks and items with improved accuracy$(br)$(l:destructor)Destructor$() - Breaks blocks and collects items with better efficiency"
 },
 {
 "type" : "text",
-"text" : "Primary Input/Output Options:$(br)$(br)• $(l:importer)Importer$() - Pulls items/fluids from adjacent inventories into your network$(br)• $(l:exporter)Exporter$() - Pushes specific items/fluids from your network to adjacent inventories$(br)• $(l:interface)Interface$() - Functions as both an input and output point with advanced filtering options$(br)• $(l:constructor)Constructor$() - Places blocks or drops items from your network into the world$(br)• $(l:destructor)Destructor$() - Breaks blocks or picks up items from the world and adds them to your network"
+"text" : "Each component in RS2 features:$(li)Enhanced transfer rates$(li)Improved filtering capabilities$(li)Better mod compatibility$(li)Enhanced automation control$(li)Improved performance monitoring$(li)Better error handling$(br2)Use $(l:upgrades)Upgrades$() to further enhance their capabilities with improved efficiency."
 },
 {
 "type" : "text",
-"text" : "For more specialized operations:$(br)$(br)• $(l:disk_manipulator)Disk Manipulator$() - Transfers items between storage disks and your network$(br)• $(l:external)External Storage$() - Connects external inventories directly to your network$(br)• $(l:reader)Reader$() - Monitors inventory contents and emits redstone signals$(br)• $(l:writer)Writer$() - Inserts or extracts items based on redstone signals$(br)$(br)Each of these components can be upgraded with various $(l:upgradesrs)Upgrades$() to enhance their functionality, speed, and filtering capabilities."
+"text" : "For more specialized operations:$(br)$(br)• $(l:disk_manipulator)Disk Manipulator$() - Transfers items between storage disks and your network$(br)• $(l:reader)Reader$() - Monitors inventory contents and emits redstone signals$(br)• $(l:writer)Writer$() - Inserts or extracts items based on redstone signals$(br)$(br)Each of these components can be upgraded with various $(l:upgradesrs)Upgrades$() to enhance their functionality, speed, and filtering capabilities."
 }
 ]
 } 

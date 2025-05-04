@@ -1,23 +1,24 @@
 {
   "name": "Wireless Grid",
-  "category": "refstoragemanual:tools_and_utilities",
+  "category": "refstoragemanual:wireless",
   "icon": "refinedstorage:wireless_grid",
   "pages": [
     {
       "type": "text",
-      "text": "The Wireless Grid is a portable version of the regular Grid that allows you to access your storage network from anywhere within range of a Wireless Transmitter."
+      "text": "The Wireless Grid in Refined Storage 2 has been significantly enhanced with improved range, better reliability, and enhanced security features. This portable version of the Grid provides full access to your storage network from anywhere within range, now with unified item and fluid management just like the standard Grid."
     },
     {
       "type": "text",
-      "text": "To use the Wireless Grid:$(li)Right-click while holding it to open the interface$(li)Insert a Network Card to connect to a wireless network$(li)Use it within range of a configured Wireless Transmitter$(li)Access and manage your items just like a regular Grid"
+      "text": "Key improvements:$(li)Enhanced wireless range$(li)Better connection stability$(li)Improved security features$(li)Unified item/fluid handling$(li)Enhanced power efficiency$(li)Better cross-dimensional support$(br2)RS2's wireless system now provides a more reliable and secure remote access experience."
     },
     {
       "type": "text",
-      "text": "The Wireless Grid supports all the same features as a regular Grid, including:$(li)Viewing and managing items$(li)Searching and filtering$(li)Sorting and grouping$(li)Using Grid Filters"
+      "text": "Setup and Usage:$(li)Craft a Wireless Grid$(li)Create a Network Card$(li)Configure Wireless Transmitter$(li)Link the Grid to your network$(li)Access items anywhere in range$(li)Use dimensional upgrades for extended reach$(br2)The new system features improved power management and better connection handling."
     },
     {
       "type": "crafting",
-      "recipe": "refinedstorage:wireless_grid"
+      "recipe": "refinedstorage:wireless_grid",
+      "text": "Wireless Grid Crafting Recipe"
     }
   ]
 } 

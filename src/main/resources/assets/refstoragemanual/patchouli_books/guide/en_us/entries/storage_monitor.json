@@ -5,11 +5,11 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Storage Monitor is a block that displays the amount of a specific item or fluid in your storage network. It provides a visual indicator of resource levels."
+"text" : "The Storage Monitor is a block that displays the amount of a specific item or fluid in your storage network. In RS2, it provides enhanced visual indicators and improved real-time updates of resource levels."
 },
 {
 "type" : "text",
-"text" : "Features:$(li)Display item or fluid quantities$(li)Real-time updates$(li)Configurable display item$(li)Redstone output based on quantity$(li)Can be used with comparators"
+"text" : "Features:$(li)Enhanced display of item or fluid quantities$(li)Improved real-time updates$(li)Configurable display item$(li)Enhanced redstone output based on quantity$(li)Better comparator integration"
 },
 {
 "type" : "text",
@@ -17,7 +17,8 @@
 },
 {
 "type" : "crafting",
-"recipe" : "refinedstorage:storage_monitor"
+"recipe" : "refinedstorage:storage_monitor",
+"text" : "Storage Monitor Recipe"
 }
 ]
 }

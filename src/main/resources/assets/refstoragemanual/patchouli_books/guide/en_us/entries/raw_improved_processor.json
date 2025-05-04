@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Raw Improved Processor is an unprocessed component that must be smelted in a furnace to create the Improved Processor. This intermediate assembly combines silicon, redstone, and gold in a configuration that, when properly smelted, provides the enhanced computing capabilities required for mid-tier Refined Storage devices."
+"text" : "The Raw Improved Processor in Refined Storage 2 is an unprocessed component that must be smelted in a furnace to create the Improved Processor. This intermediate assembly combines silicon, redstone, and gold in a configuration that, when properly smelted, provides the enhanced computing capabilities required for mid-tier Refined Storage devices. RS2 features improved smelting efficiency and better quality control."
 },
 {
 "type" : "crafting",

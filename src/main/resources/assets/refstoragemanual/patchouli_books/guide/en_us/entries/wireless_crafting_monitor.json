@@ -17,7 +17,8 @@
     },
     {
       "type": "crafting",
-      "recipe": "refinedstorage:wireless_crafting_monitor"
+      "recipe": "refinedstorage:wireless_crafting_monitor",
+      "text": "Wireless Crafting Monitor Recipe"
     }
   ]
 } 

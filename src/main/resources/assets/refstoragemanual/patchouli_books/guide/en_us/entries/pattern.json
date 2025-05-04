@@ -5,13 +5,12 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Patterns are essential for setting up $(l:autocrafting)autocrafting$() within your Refined Storage network. They are used in the $(l:pattern_grid)Pattern Grid$() to encode crafting and processing recipes, which are then executed by Crafters to automate the production of items."
+"text" : "Patterns in Refined Storage 2 are essential for setting up $(l:autocrafting)autocrafting$() within your network, now featuring improved recipe validation and better handling of complex crafting chains. They are used in the $(l:pattern_grid)Pattern Grid$() to encode crafting and processing recipes with enhanced precision and reliability. The new pattern system includes better support for modded recipes and improved error detection."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:pattern",
 "text" : "Pattern Crafting Recipe."
 }
-
 ]
 }

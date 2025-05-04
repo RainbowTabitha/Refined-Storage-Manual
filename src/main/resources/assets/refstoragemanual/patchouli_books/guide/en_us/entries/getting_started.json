@@ -6,27 +6,27 @@
     "pages": [
         {
             "type": "text",
-            "text": "Welcome to Refined Storage! This mod allows you to build a powerful storage network to manage all your items and fluids. In this guide, we'll walk through the core concepts and help you set up your first storage system.$(br2)Core Concept:$(br)Refined Storage is built around a network of connected devices that work together to store and manage your resources. Everything starts with a Controller - the heart of your network."
+            "text": "Welcome to Refined Storage 2! This mod allows you to build a powerful storage network to manage all your items and fluids. In this guide, we'll walk through the core concepts and help you set up your first storage system.$(br2)Core Concept:$(br)Refined Storage 2 is built around a network of connected devices that work together to store and manage your resources. Everything starts with a Controller - the heart of your network."
         },
         {
             "type": "text",
-            "text": "Basic Requirements:$(br)$(li)Power (RF/FE energy)$(li)Controller$(li)Storage (Disk Drive or Storage Blocks)$(li)Access Interface (Grid)$(br2)Your network needs power to function. Any standard RF/FE power source will work. The Controller distributes this power to all connected devices."
+            "text": "Basic Requirements:$(br)$(li)Power (RF/FE/E energy)$(li)Controller$(li)Storage (Disk Drive or Storage Blocks)$(li)Access Interface (Grid)$(br2)Your network needs power to function. Any standard RF/FE/E power source will work. The Controller distributes this power to all connected devices. RS2 has improved energy efficiency and better power distribution."
         },
         {
             "type": "text",
-            "text": "Step 1: The Controller$(br)Start by crafting a Controller. This block:$(br)$(li)Powers your entire network$(li)Connects all devices together$(li)Must be powered with RF/FE$(br2)Place the Controller where you want your network's core to be. All devices must connect to it, either directly or through Cables."
+            "text": "Step 1: The Controller$(br)Start by crafting a Controller. This block:$(br)$(li)Powers your entire network$(li)Connects all devices together$(li)Must be powered with RF/FE/E$(li)Supports multiple controllers for larger networks$(br2)Place the Controller where you want your network's core to be. All devices must connect to it, either directly or through Cables."
         },
         {
             "type": "text",
-            "text": "Step 2: Storage Setup$(br)You'll need storage capacity for your network. Two main options:$(br)$(li)Disk Drive with Storage Disks$(li)Storage Blocks$(br2)For beginners, start with:$(br)1. Craft a Disk Drive$(br)2. Create a 1k Storage Disk$(br)3. Insert the disk into the drive$(br)Your network can now store up to 1,000 items!"
+            "text": "Step 2: Storage Setup$(br)You'll need storage capacity for your network. Two main options:$(br)$(li)Disk Drive with Storage Disks$(li)Storage Blocks$(br2)For beginners, start with:$(br)1. Craft a Disk Drive$(br)2. Create a 1k Storage Disk$(br)3. Insert the disk into the drive$(br)Your network can now store up to 1,000 items! RS2 features improved storage management and better type handling."
         },
         {
             "type": "text",
-            "text": "Step 3: Accessing Your Storage$(br)To interact with your storage, you'll need a Grid:$(br)$(li)Basic Grid - View and manage items$(li)Crafting Grid - Includes a crafting table$(li)Pattern Grid - For autocrafting setup$(br2)Connect your Grid to the network (directly or with Cables) and you can start storing items!"
+            "text": "Step 3: Accessing Your Storage$(br)To interact with your storage, you'll need a Grid:$(br)$(li)Basic Grid - View and manage items$(li)Crafting Grid - Includes a crafting table$(li)Pattern Grid - For autocrafting setup$(br2)RS2 introduces improved grid performance and better search functionality. Connect your Grid to the network (directly or with Cables) and start managing your items!"
         },
         {
             "type": "text",
-            "text": "Next Steps:$(br)Once you have the basics working, consider:$(br)$(li)Upgrading to larger storage disks$(li)Adding autocrafting capabilities$(li)Setting up fluid storage$(li)Adding wireless access$(br2)Check the other sections of this manual for detailed information on these advanced features."
+            "text": "Next Steps:$(br)RS2 offers many advanced features:$(br)$(li)Enhanced autocrafting with the new Autocrafter$(li)Improved fluid handling and storage$(li)Better wireless connectivity$(li)New security features$(li)Integration with modern mods$(br2)Check the other sections of this manual for detailed information on these features. RS2 is designed to be more performant and user-friendly than ever!"
         }
     ]
 } 

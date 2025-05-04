@@ -1,0 +1,24 @@
+{
+"name" : "Autocrafter Manager",
+"icon" : "refinedstorage:autocrafter_manager",
+"category" : "refstoragemanual:autocrafting",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Autocrafter Manager is a new addition in Refined Storage 2 that provides centralized control and monitoring of your autocrafting operations. This powerful tool allows you to manage multiple Autocrafters efficiently, optimize crafting patterns, and monitor resource usage across your entire network."
+},
+{
+"type" : "text",
+"text" : "Key features:$(li)View all patterns in your network$(li)Monitor multiple Autocrafters$(li)Manage crafting priorities$(li)Track resource usage$(li)Optimize crafting operations$(li)Real-time performance monitoring$(br2)The Autocrafter Manager helps prevent crafting bottlenecks and ensures efficient resource utilization."
+},
+{
+"type" : "text",
+"text" : "Using the Manager:$(li)Connect it to your network$(li)View all available patterns$(li)Monitor active crafting tasks$(li)Adjust crafting priorities$(li)Check resource availability$(li)Optimize pattern distribution$(br2)The interface provides detailed information about your crafting setup and helps identify potential improvements."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:autocrafter_manager",
+"text" : "Autocrafter Manager Crafting Recipe"
+}
+]
+} 

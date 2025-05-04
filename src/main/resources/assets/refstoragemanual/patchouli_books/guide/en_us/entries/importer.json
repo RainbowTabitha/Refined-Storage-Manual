@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Importer is a crucial component for integrating external inventories into your Refined Storage network. It transfers items or fluids from a connected inventory into the network, provided there is available space. By default, the Importer accesses all reachable slots, but players can configure it using whitelist or blacklist filters to control what is imported. Proper placement is essential to ensure the Importer can access the desired slots or fluid tanks."
+"text" : "The Importer in Refined Storage 2 is a crucial component for integrating external inventories into your Refined Storage network with improved efficiency and reliability. It transfers items or fluids from a connected inventory into the network, provided there is available space. By default, the Importer accesses all reachable slots, but players can configure it using whitelist or blacklist filters to control what is imported. RS2 features enhanced filter options and better performance for large inventories."
 },
 {
 "type" : "crafting",

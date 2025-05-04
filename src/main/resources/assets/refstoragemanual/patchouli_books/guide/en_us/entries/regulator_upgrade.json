@@ -5,19 +5,20 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Regulator Upgrade allows machines to control the flow of items, ensuring that specific amounts are maintained in the network."
+      "text": "The Regulator Upgrade is a new addition in Refined Storage 2 that provides enhanced control over item and fluid flow in your network. It allows machines to maintain specific quantities with improved precision and efficiency, while optimizing power consumption and network performance."
     },
     {
       "type": "text",
-      "text": "Features:$(li)Controls item flow$(li)Maintains specific item amounts$(li)Works in machines like Exporters$(li)Increases power consumption"
+      "text": "Key features:$(li)Smart quantity control$(li)Improved flow management$(li)Better power efficiency$(li)Enhanced precision$(li)Automatic throttling$(li)Real-time monitoring$(br2)The Regulator Upgrade is particularly useful in machines like Exporters and Constructors, where maintaining specific quantities is crucial."
     },
     {
       "type": "text",
-      "text": "To use the Regulator Upgrade:$(li)Right-click on a compatible machine$(li)Insert the upgrade into an upgrade slot$(li)Configure the desired item amounts$(li)Machine will maintain specified quantities"
+      "text": "Usage:$(li)Install in compatible machines$(li)Set desired quantities$(li)Configure threshold values$(li)Monitor power usage$(li)Adjust flow rates as needed$(br2)The upgrade automatically manages resource flow to maintain your specified quantities while optimizing network performance."
     },
     {
       "type": "crafting",
-      "recipe": "refinedstorage:regulator_upgrade"
+      "recipe": "refinedstorage:regulator_upgrade",
+      "text": "Regulator Upgrade Crafting Recipe"
     }
   ]
 } 

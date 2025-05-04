@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Processing recipes in Refined Storage allow you to automate machine operations beyond standard crafting table recipes. These special patterns define both inputs and expected outputs for external machines like furnaces, pulverizers, or any other processing device. Unlike standard crafting patterns, processing patterns don't execute the recipe directly—instead, they manage the movement of resources to and from processing machines."
+"text" : "Processing recipes in Refined Storage 2 allow you to automate machine operations beyond standard crafting table recipes with enhanced precision and reliability. These special patterns define both inputs and expected outputs for external machines like furnaces, pulverizers, or any other processing device. The new system features improved recipe validation and better handling of complex processing chains."
 },
 {
 "type" : "text",
@@ -13,7 +13,7 @@
 },
 {
 "type" : "text",
-"text" : "When you place this pattern in a Crafter facing a compatible machine, the system will extract the specified inputs from your storage network and insert them into the machine. However, you must set up a way to return the processed outputs back to your network—typically using an Importer or Interface. The system recognizes a processing task as complete when it detects the expected output items returning to the network. This flexible system allows for automating virtually any machine-based processing in your modpack."
+"text" : "When you place this pattern in a Crafter facing a compatible machine, the system will extract the specified inputs from your storage network and insert them into the machine. However, you must set up a way to return the processed outputs back to your network—typically using an Importer or Interface. The system recognizes a processing task as complete when it detects the expected output items returning to the network. RS2 includes improved error detection and better handling of processing failures."
 }
 ]
 } 

@@ -1,35 +1,35 @@
 {
 "name" : "Fluid Storage Disks",
 "icon" : "refinedstorage:4096k_fluid_storage_disk",
-"category" : "refstoragemanual:fluid_storage",
+"category" : "refstoragemanual:disks_and_drives",
 "pages" : [
 {
 "type" : "text",
-"text" : "Fluid Storage Disks are specialized storage devices designed for storing fluids in your Refined Storage network. These disks must be inserted into a $(l:disk_drive)Disk Drive$() to function. Like regular storage disks, they are non-volatile and won't despawn when dropped in the world."
+"text" : "In Refined Storage 2, fluid storage has been enhanced with improved efficiency and better integration. Storage disks now handle both items and fluids with enhanced precision and reliability. The main Grid interface provides unified access to all stored contents with better organization and filtering capabilities. RS2 features improved fluid handling and better storage management."
 },
 {
 "type" : "text",
-"text" : "Each disk can be uncrafted by shift + right-clicking with it in hand, returning:$(br)$(li)The corresponding Fluid Storage Part$(li)Storage Housing$(br2)Use these disks with a $(l:fluid_grid)Fluid Grid$() to view and manage stored fluids. Multiple disks can be combined in a single drive for expanded fluid storage capacity."
+"text" : "Available fluid storage capacities:$(li)64k Fluid Storage (64,000 mB)$(li)256k Fluid Storage (256,000 mB)$(li)1024k Fluid Storage (1,024,000 mB)$(li)4096k Fluid Storage (4,096,000 mB)$(li)Creative Fluid Storage (Infinite)$(br2)Each disk now features improved transfer rates, better reliability, and enhanced compatibility with other mods."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:64k_fluid_storage_disk",
-"text" : "64k Fluid Storage Disk - Stores 64,000 mB of fluids"
+"text" : "64k Fluid Storage Disk Recipe"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:256k_fluid_storage_disk",
-"text" : "256k Fluid Storage Disk - Stores 256,000 mB of fluids"
+"text" : "256k Fluid Storage Disk Recipe"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:1024k_fluid_storage_disk",
-"text" : "1024k Fluid Storage Disk - Stores 1,024,000 mB of fluids"
+"text" : "1024k Fluid Storage Disk Recipe"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:4096k_fluid_storage_disk",
-"text" : "4096k Fluid Storage Disk - Stores 4,096,000 mB of fluids"
+"text" : "4096k Fluid Storage Disk Recipe"
 }
 ]
 }

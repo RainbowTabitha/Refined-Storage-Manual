@@ -5,19 +5,20 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Silicon is a key material used in crafting electronic components for Refined Storage. It is created by processing quartz in a specific way."
+"text" : "Silicon is a key material used in crafting electronic components for Refined Storage. In RS2, the silicon processing has been improved for better efficiency and yield."
 },
 {
 "type" : "text",
-"text" : "Features:$(li)Used in electronic components$(li)Required for processors$(li)Can be cut into smaller pieces$(li)Essential for advanced crafting"
+"text": "Features:$(li)Enhanced processing methods$(li)Better yield from raw materials$(li)Improved component quality$(li)Essential for RS2's advanced systems"
 },
 {
 "type" : "text",
-"text" : "To craft Silicon:$(li)Process quartz in a specific way$(li)Can be automated with machines$(li)Used in many device recipes$(li)Can be stored in bulk"
+"text": "To craft Silicon:$(li)Process quartz using RS2's improved methods$(li)Better automation compatibility$(li)More efficient resource usage$(li)Enhanced quality control"
 },
 {
 "type" : "crafting",
-"recipe" : "refinedstorage:silicon"
+"recipe" : "refinedstorage:silicon",
+"text" : "Silicon Recipe"
 }
 ]
 }

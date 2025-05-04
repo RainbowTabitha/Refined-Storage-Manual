@@ -5,15 +5,15 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Range Upgrade increases the wireless range of wireless devices. Each upgrade installed will extend the range by a certain amount."
+"text" : "The Range Upgrade in Refined Storage 2 increases the wireless range of wireless devices with improved efficiency. Each upgrade installed will extend the range by a certain amount while maintaining optimal power consumption."
 },
 {
 "type" : "text",
-"text" : "Features:$(li)Increases wireless range$(li)Can be stacked for greater effect$(li)Works in Wireless Transmitters$(li)Increases power consumption"
+"text" : "Features:$(li)Increases wireless range$(li)Can be stacked for greater effect$(li)Works in Wireless Transmitters$(li)Increases power consumption$(li)Improved power efficiency$(li)Better signal stability"
 },
 {
 "type" : "text",
-"text" : "To use the Range Upgrade:$(li)Right-click on a Wireless Transmitter$(li)Insert the upgrade into an upgrade slot$(li)Multiple upgrades can be installed$(li)Each upgrade will increase power consumption"
+"text" : "To use the Range Upgrade:$(li)Right-click on a Wireless Transmitter$(li)Insert the upgrade into an upgrade slot$(li)Multiple upgrades can be installed$(li)Each upgrade will increase power consumption$(li)Monitor power usage for optimal performance"
 },
 {
 "type" : "crafting",

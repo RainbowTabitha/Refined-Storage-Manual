@@ -5,13 +5,12 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Pattern Grid is a specialized version of the $(l:grid)Grid$(), designed specifically for creating patterns. It is an essential tool for setting up autocrafting recipes within your Refined Storage network. By using the Pattern Grid, you can encode crafting and processing patterns, which are then used by Crafters to automate the crafting process."
+"text" : "The Pattern Grid in Refined Storage 2 is a specialized version of the $(l:grid)Grid$(), designed specifically for creating patterns with enhanced functionality. It features improved pattern management, better recipe validation, and more intuitive interface. This essential tool for setting up autocrafting recipes within your Refined Storage network now includes advanced features for pattern organization and validation."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:pattern_grid",
 "text" : "Pattern Grid Crafting Recipe."
 }
-
 ]
 }

@@ -5,15 +5,15 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Crafting Upgrade enables autocrafting functionality in compatible machines. When an item is needed but not available, the machine will automatically schedule a crafting task."
+"text" : "The Crafting Upgrade in Refined Storage 2 enables autocrafting functionality in compatible machines with improved efficiency and better performance. When an item is needed but not available, the machine will automatically schedule a crafting task with enhanced priority management and better resource allocation."
 },
 {
 "type" : "text",
-"text" : "Features:$(li)Enables autocrafting$(li)Works in machines like Importers and Exporters$(li)Automatically schedules crafting tasks$(li)Increases power consumption"
+"text" : "Features:$(li)Enables autocrafting with improved reliability$(li)Works in machines like Importers and Exporters with better compatibility$(li)Automatically schedules crafting tasks with enhanced priority$(li)Increases power consumption with better efficiency$(li)Improved task management$(li)Better error handling"
 },
 {
 "type" : "text",
-"text" : "To use the Crafting Upgrade:$(li)Right-click on a compatible machine$(li)Insert the upgrade into an upgrade slot$(li)Configure the machine's crafting settings$(li)Machine will automatically craft missing items"
+"text" : "To use the Crafting Upgrade:$(li)Right-click on a compatible machine$(li)Insert the upgrade into an upgrade slot$(li)Configure the machine's crafting settings with enhanced options$(li)Machine will automatically craft missing items with improved precision$(li)Monitor power usage for optimal performance$(li)Configure advanced settings if needed"
 },
 {
 "type" : "crafting",

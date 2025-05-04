@@ -5,11 +5,11 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Crafting Monitor provides real-time information about all ongoing crafting tasks in your Refined Storage network. It displays a detailed list of tasks, showing their progress, required materials, and any missing resources. This interface is essential for managing complex crafting operations and troubleshooting issues that may arise during automated crafting."
+"text" : "The Crafting Monitor in Refined Storage 2 provides real-time information about all ongoing crafting tasks in your network with enhanced monitoring capabilities and improved performance. It displays a detailed list of tasks, showing their progress, required materials, and any missing resources with better accuracy. This interface is essential for managing complex crafting operations and troubleshooting issues that may arise during automated crafting. RS2 features improved task management and better error reporting."
 },
 {
 "type" : "text",
-"text" : "The monitor categorizes tasks by status, allowing you to quickly identify:$(br)• Crafting tasks in progress$(br)• Scheduled tasks waiting to start$(br)• Blocked tasks missing resources$(br)• Completed tasks$(br)$(br)You can also cancel ongoing tasks or clear finished ones through this interface. For remote monitoring, consider using a Wireless Crafting Monitor to access this information from anywhere within range of your network."
+"text" : "The monitor categorizes tasks by status with enhanced filtering options, allowing you to quickly identify:$(br)• Crafting tasks in progress with detailed progress tracking$(br)• Scheduled tasks waiting to start with priority management$(br)• Blocked tasks missing resources with improved diagnostics$(br)• Completed tasks with better history tracking$(br)$(br)You can also cancel ongoing tasks or clear finished ones through this interface with enhanced control. For remote monitoring, consider using a Wireless Crafting Monitor to access this information from anywhere within range of your network, now with improved signal strength and better performance."
 },
 {
 "type" : "crafting",

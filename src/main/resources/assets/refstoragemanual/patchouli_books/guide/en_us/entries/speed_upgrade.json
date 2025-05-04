@@ -5,19 +5,20 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Speed Upgrade increases the processing speed of machines. Each upgrade installed will reduce the time between operations."
+"text" : "The Speed Upgrade increases the processing speed of machines. In RS2, these upgrades have been enhanced with improved performance and better power efficiency. Each upgrade installed will reduce the time between operations while maintaining network stability."
 },
 {
 "type" : "text",
-"text" : "Features:$(li)Reduces processing time$(li)Can be stacked for greater effect$(li)Works in machines like Importers, Exporters, and Constructors$(li)Increases power consumption"
+"text" : "Features:$(li)Enhanced processing speed boost$(li)Improved power efficiency in RS2$(li)Better stacking performance$(li)Works in all RS2 machines$(li)Optimized network impact"
 },
 {
 "type" : "text",
-"text" : "To use the Speed Upgrade:$(li)Right-click on a compatible machine$(li)Insert the upgrade into an upgrade slot$(li)Multiple upgrades can be installed$(li)Each upgrade will increase power consumption"
+"text" : "To use the Speed Upgrade:$(li)Right-click on a compatible machine$(li)Insert the upgrade into an upgrade slot$(li)Multiple upgrades can be installed$(li)Each upgrade will increase power consumption$(br2)RS2's improved upgrade system ensures better performance scaling."
 },
 {
 "type" : "crafting",
-"recipe" : "refinedstorage:speed_upgrade"
+"recipe" : "refinedstorage:speed_upgrade",
+"text" : "Speed Upgrade Recipe"
 }
 ]
 } 

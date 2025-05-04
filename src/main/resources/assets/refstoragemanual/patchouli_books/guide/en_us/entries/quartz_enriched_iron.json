@@ -1,23 +1,24 @@
 {
-  "name": "Quartz Enriched Iron",
-  "category": "refstoragemanual:basics",
-  "icon": "refinedstorage:quartz_enriched_iron",
-  "pages": [
-    {
-      "type": "text",
-      "text": "Quartz Enriched Iron is a fundamental material used in crafting many Refined Storage components. It is created by combining iron with quartz in a specific ratio."
-    },
-    {
-      "type": "text",
-      "text": "Features:$(li)Basic crafting material$(li)Used in many device recipes$(li)Can be crafted into blocks$(li)Essential for early-game progression"
-    },
-    {
-      "type": "text",
-      "text": "To craft Quartz Enriched Iron:$(li)Combine iron ingots with quartz$(li)Use a 1:1 ratio$(li)Can be crafted in a regular crafting table$(li)Can be automated with autocrafting"
-    },
-    {
-      "type": "crafting",
-      "recipe": "refinedstorage:quartz_enriched_iron"
-    }
-  ]
-} 
+"name" : "Quartz Enriched Iron",
+"icon" : "refinedstorage:quartz_enriched_iron",
+"category" : "refstoragemanual:basics",
+"pages" : [
+{
+"type" : "text",
+"text" : "Quartz Enriched Iron is an enhanced material that combines the processing capabilities of Quartz with the structural stability of Iron. This material is crucial for crafting components that require durability and reliable performance under heavy loads."
+},
+{
+"type" : "text",
+"text" : "Properties:$(li)Enhanced structural stability$(li)Improved durability and longevity$(li)Better resistance to wear and tear$(br2)This material is particularly useful in crafting components that need to handle continuous operation and heavy workloads."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:quartz_enriched_iron",
+"text" : "Quartz Enriched Iron Recipe"
+},
+{
+"type" : "text",
+"text" : "Uses:$(li)Storage Blocks$(li)Controllers$(li)Network Receivers$(li)Processing Units$(br2)The enhanced stability makes it ideal for components that need to maintain consistent performance under heavy usage."
+}
+]
+}

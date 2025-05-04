@@ -1,20 +1,24 @@
 {
 "name" : "Getting Started with Autocrafting",
-"icon" : "minecraft:crafting_table",
-"priority" : "true",
-"category" : "refstoragemanual:auto_crafting",
+"icon" : "refinedstorage:autocrafter",
+"priority" : true,
+"category" : "refstoragemanual:autocrafting",
 "pages" : [
 {
 "type" : "text",
-"text" : "Autocrafting is one of Refined Storage's most powerful features, allowing you to automate the creation of items through your network. The system uses patterns to define crafting recipes and processing operations, then executes these tasks on demand. This guide will help you set up your first autocrafting system, from creating patterns to monitoring crafting operations."
+"text" : "Autocrafting in Refined Storage 2 has been completely revamped with the introduction of the new Autocrafter system. To get started with autocrafting, you'll need:$(br2)$(l:pattern_grid)Pattern Grid$() - Create patterns with improved accuracy$(br)$(l:autocrafter)Autocrafter$() - More efficient than the old Crafter$(br)$(l:autocrafter_manager)Autocrafter Manager$() - Manage multiple autocrafters$(br)$(l:crafting_monitor)Crafting Monitor$() - Track crafting tasks with better monitoring"
 },
 {
 "type" : "text",
-"text" : "Required Components:$(br)1. Pattern Grid - For creating patterns$(br)2. Patterns - To store crafting recipes$(br)3. Crafter - To execute crafting operations$(br)4. Crafting Monitor (optional) - To track crafting progress$(br)$(br)Begin by crafting a Pattern Grid and connecting it to your network. Then create Patterns for the items you want to autocraft. Place these patterns in a Crafter connected to your network. Finally, request items through any Grid interface to initiate crafting tasks."
+"text" : "RS2's new Autocrafter features:$(li)Enhanced parallel processing$(li)Better task scheduling$(li)Improved resource management$(li)Smarter crafting queue$(li)Better error handling$(li)Improved performance monitoring$(br2)Multiple Autocrafters can work together seamlessly for complex crafting operations."
 },
 {
 "type" : "text",
-"text" : "When creating patterns, you have two options:$(br)$(br)1. Crafting Patterns - For standard crafting table recipes$(br)2. Processing Patterns - For machine operations like smelting$(br)$(br)Crafting patterns are created by arranging items in the Pattern Grid just as you would in a crafting table. Processing patterns allow you to specify inputs and expected outputs for external machines. The system is modular and expandable, allowing you to automate increasingly complex crafting operations as your network grows."
+"text" : "Required Components:$(br)1. Pattern Grid - For creating patterns$(br)2. Patterns - To store crafting recipes$(br)3. Autocrafter - To execute crafting operations$(br)4. Autocrafter Manager - To manage and monitor multiple autocrafters$(br)5. Crafting Monitor (optional) - To track crafting progress$(br)$(br)Begin by crafting a Pattern Grid and connecting it to your network. Create patterns for the items you want to autocraft. Place these patterns in an Autocrafter connected to your network. Use the Autocrafter Manager to organize and optimize your crafting setup."
+},
+{
+"type" : "text",
+"text" : "When creating patterns, you have two options:$(br)$(br)1. Crafting Patterns - For standard crafting table recipes$(br)2. Processing Patterns - For machine operations like smelting$(br)$(br)The new Autocrafter system handles both types more efficiently, with better parallel processing and improved resource management. The system is modular and expandable, allowing you to automate increasingly complex crafting operations as your network grows. Use the Autocrafter Manager to monitor and optimize your crafting setup."
 }
 ]
 } 

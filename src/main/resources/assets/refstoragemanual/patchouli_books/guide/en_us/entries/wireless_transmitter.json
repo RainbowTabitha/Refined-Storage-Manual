@@ -17,7 +17,8 @@
     },
     {
       "type": "crafting",
-      "recipe": "refinedstorage:wireless_transmitter"
+      "recipe": "refinedstorage:wireless_transmitter",
+      "text": "Wireless Transmitter Recipe"
     }
   ]
 }

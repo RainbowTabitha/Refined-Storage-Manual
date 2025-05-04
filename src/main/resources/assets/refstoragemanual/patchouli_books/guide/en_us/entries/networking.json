@@ -1,0 +1,31 @@
+{
+    "name": "Networking",
+    "icon": "refinedstorage:controller",
+    "category": "refstoragemanual:networking",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Refined Storage 2 features a significantly improved networking system with better performance and new capabilities.$(br2)Core Components:$(br)$(li)Controller - Network power hub$(li)Cables - Network connections$(li)Network Transmitter/Receiver - Long distance networking$(li)Network Card - For wireless connectivity"
+        },
+        {
+            "type": "text",
+            "text": "Controller Improvements:$(br)$(li)Multiple controllers support$(li)Better power distribution$(li)Improved network stability$(li)Enhanced error handling$(br2)RS2 allows multiple controllers to work together, providing redundancy and increased power capacity for large networks."
+        },
+        {
+            "type": "text",
+            "text": "Cable System:$(br)$(li)More efficient data transfer$(li)Better network topology$(li)Improved connection visualization$(li)Enhanced cable management$(br2)RS2's cables are smarter about routing and can handle larger networks more efficiently."
+        },
+        {
+            "type": "text",
+            "text": "Long Distance Networking:$(br)The Network Transmitter and Receiver have been enhanced:$(br)$(li)Better cross-dimensional support$(li)Improved range capabilities$(li)More stable connections$(li)Enhanced security features$(br2)Connect networks across any distance with better reliability."
+        },
+        {
+            "type": "text",
+            "text": "Network Management:$(br)RS2 provides better tools for managing your network:$(br)$(li)Network status monitoring$(li)Connection diagnostics$(li)Power usage tracking$(li)Network device management$(br2)Use the Network Card to configure and manage network devices more effectively."
+        },
+        {
+            "type": "text",
+            "text": "Performance Features:$(br)RS2's networking includes:$(br)$(li)Reduced network lag$(li)Better chunk loading handling$(li)Improved network scaling$(li)Enhanced error recovery$(br2)These improvements make large networks more stable and efficient than ever before."
+        }
+    ]
+} 

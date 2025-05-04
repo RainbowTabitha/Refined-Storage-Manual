@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Security Card is a key component for managing access to your Refined Storage network. It is used in conjunction with the $(l:sec_manager)Security Terminal$() to configure user permissions, ensuring that only authorized players can interact with your storage system."
+"text" : "The Security Card in Refined Storage 2 is a key component for managing access to your Refined Storage network with enhanced security features. It is used in conjunction with the $(l:sec_manager)Security Terminal$() to configure user permissions, ensuring that only authorized players can interact with your storage system. RS2 includes improved permission management and better security protocols."
 },
 {
 "type" : "crafting",

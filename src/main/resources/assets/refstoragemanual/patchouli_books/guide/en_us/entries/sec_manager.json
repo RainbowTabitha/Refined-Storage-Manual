@@ -12,6 +12,10 @@
 "text" : "When no security cards are active on the network, everyone has access to all permissions. Start inserting security cards to define permissions for players. Players who have no configured Security Card are still able to do everything in the network (all permissions). To configure a \"global\" set of permissions for all unconfigured players, configure a Security Card that isn't bound to a player and insert it in the Security Manager."
 },
 {
+"type" : "text",
+"text" : "Security Cards define access levels:$(br)$(li)Owner - Full access$(li)Operator - Management access$(li)User - Basic access$(li)Viewer - View only$(br2)Cards can be configured with specific permissions."
+},
+{
 "type" : "crafting",
 "recipe" : "refinedstorage:security_manager",
 "text" : "Security Manager Crafting Recipe."

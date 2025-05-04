@@ -5,12 +5,12 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Wrench is a versatile tool used primarily for rotating blocks within the Refined Storage system. It can also be used to dismantle certain blocks without breaking them, allowing for easy repositioning and reconfiguration of your storage network."
+"text" : "The Wrench is a versatile tool used primarily for rotating blocks within the Refined Storage system. In RS2, it features improved block handling and better mod compatibility. It can also be used to dismantle certain blocks without breaking them, allowing for easy repositioning and reconfiguration of your storage network."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:wrench",
-"text" : "Wrench Crafting Recipe."
+"text" : "Wrench Recipe"
 }
 ]
 }

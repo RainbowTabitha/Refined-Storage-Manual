@@ -5,11 +5,11 @@
   "pages": [
     {
       "type": "text",
-      "text": "Refined Storage allows you to extend your network over long distances using wireless components. This guide explains how to set up and maintain long-distance network connections."
+      "text": "Refined Storage 2 allows you to extend your network over long distances using wireless components with improved stability and performance. This guide explains how to set up and maintain long-distance network connections in RS2."
     },
     {
       "type": "text",
-      "text": "Required Components:$(li)Network Transmitter - Sends signals$(li)Network Receiver - Receives signals$(li)Network Card - Enables wireless functionality$(li)Range Upgrades - Extends transmission distance"
+      "text": "Required Components:$(li)Network Transmitter - Sends signals with improved stability$(li)Network Receiver - Receives signals with better cross-dimensional support$(li)Network Card - Enables wireless functionality with enhanced security$(li)Range Upgrades - Extends transmission distance with optimized power usage"
     },
     {
       "type": "text",
@@ -17,7 +17,7 @@
     },
     {
       "type": "text",
-      "text": "Best Practices:$(li)Use Range Upgrades for longer distances$(li)Keep networks within chunk loading range$(li)Configure security settings if needed$(li)Monitor power consumption$(li)Use multiple transmitters for redundancy"
+      "text": "RS2 Improvements:$(li)Enhanced signal stability across dimensions$(li)Improved power efficiency for wireless connections$(li)Better chunk loading detection$(li)Advanced security features for wireless access$(li)Optimized network synchronization"
     }
   ]
 } 

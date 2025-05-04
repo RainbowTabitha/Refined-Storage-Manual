@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Exporter is a vital component for distributing items or fluids from your Refined Storage network to external inventories or tanks. It extracts specified resources from the network and inserts them into the connected inventory or tank. Users must configure the Exporter to specify which items or fluids to export, with options for NBT or damage sensitivity. Proper orientation is crucial to ensure the Exporter can access the desired slots or fluid tanks."
+"text" : "The Exporter in Refined Storage 2 is a block that transfers items or fluids from your storage network to adjacent inventories or fluid tanks with enhanced precision and improved efficiency. It features whitelist and blacklist options for selective exporting with better filtering capabilities, and can be configured to export specific quantities with improved accuracy. RS2 features better mod compatibility and enhanced performance."
 },
 {
 "type" : "crafting",

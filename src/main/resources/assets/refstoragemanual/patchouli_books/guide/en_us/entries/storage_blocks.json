@@ -1,35 +1,39 @@
 {
-"name" : "Storage Blocks",
-"icon" : "refinedstorage:64k_storage_block",
-"category" : "refstoragemanual:disks_and_drives",
-"pages" : [
-{
-"type" : "text",
-"text" : "Storage Blocks are integral components of your Refined Storage network, providing a stable and reliable means of storing items. Unlike $(l:storage_disks)Storage Disks$(), Storage Blocks can be placed in the world, offering a more tangible form of storage. When broken, Storage Blocks retain their contents, ensuring no loss of items. They are non-volatile and won't despawn if dropped."
-},
-{
-"type" : "text",
-"text" : "Storage Blocks offer several advanced features:$(br)$(li)Configurable Priority: Set positive or negative priority to control item routing$(li)Whitelist/Blacklist: Filter which items can be stored$(li)NBT/Damage Sensitivity: Configure filtering precision$(li)Mode Selection: Choose between Insert and Extract, Insert Only, or Extract Only$(br2)Storage Blocks can be uncrafted by shift + right-clicking with them in hand, returning their components."
-},
-{
-"type" : "crafting",
-"recipe" : "refinedstorage:1k_storage_block",
-"text" : "1k Storage Block - Stores 1,000 items. Components: 1k Storage Part, Basic Processor, Machine Casing"
-},
-{
-"type" : "crafting",
-"recipe" : "refinedstorage:4k_storage_block",
-"text" : "4k Storage Block - Stores 4,000 items. Components: 4k Storage Part, Basic Processor, Machine Casing"
-},
-{
-"type" : "crafting",
-"recipe" : "refinedstorage:16k_storage_block",
-"text" : "16k Storage Block - Stores 16,000 items. Components: 16k Storage Part, Basic Processor, Machine Casing"
-},
-{
-"type" : "crafting",
-"recipe" : "refinedstorage:64k_storage_block",
-"text" : "64k Storage Block - Stores 64,000 items. Components: 64k Storage Part, Basic Processor, Machine Casing"
-}
-]
+    "name": "Storage Blocks",
+    "icon": "refinedstorage:64k_storage_block",
+    "category": "refstoragemanual:disks_and_drives",
+    "pages": [
+        {
+            "type": "text",
+            "text": "Storage Blocks are integral components of your Refined Storage network, providing a stable and reliable means of storing items. Unlike $(l:storage_disks)Storage Disks$(), Storage Blocks can be placed in the world, offering a more tangible form of storage. When broken, Storage Blocks retain their contents, ensuring no loss of items. They are non-volatile and won't despawn if dropped."
+        },
+        {
+            "type": "text",
+            "text": "Storage Blocks offer several advanced features:$(br)$(li)Configurable Priority: Set positive or negative priority to control item routing$(li)Whitelist/Blacklist: Filter which items can be stored$(li)NBT/Damage Sensitivity: Configure filtering precision$(li)Mode Selection: Choose between Insert and Extract, Insert Only, or Extract Only$(br2)Storage Blocks can be uncrafted by shift + right-clicking with them in hand, returning their components."
+        },
+        {
+            "type": "text",
+            "text": "Available Storage Block Tiers:$(br)$(li)1k Storage Block (1,000 items)$(li)4k Storage Block (4,000 items)$(li)16k Storage Block (16,000 items)$(li)64k Storage Block (64,000 items)$(li)Creative Storage Block (Infinite storage)$(br2)Each tier offers increased storage capacity while maintaining network performance."
+        },
+        {
+            "type": "crafting",
+            "recipe": "refinedstorage:1k_storage_block",
+            "text": "1k Storage Block Recipe"
+        },
+        {
+            "type": "crafting",
+            "recipe": "refinedstorage:4k_storage_block",
+            "text": "4k Storage Block Recipe"
+        },
+        {
+            "type": "crafting",
+            "recipe": "refinedstorage:16k_storage_block",
+            "text": "16k Storage Block Recipe"
+        },
+        {
+            "type": "crafting",
+            "recipe": "refinedstorage:64k_storage_block",
+            "text": "64k Storage Block Recipe"
+        }
+    ]
 }

@@ -5,15 +5,15 @@
   "pages": [
     {
       "type": "text",
-      "text": "The Network Transmitter is used to send signals to a Network Receiver, allowing you to create long-distance wireless networks."
+      "text": "The Network Transmitter in Refined Storage 2 is used to send signals to a Network Receiver with enhanced stability and improved cross-dimensional support. RS2 features better signal strength and more reliable connections."
     },
     {
       "type": "text",
-      "text": "To use the Network Transmitter:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Insert a Network Card to configure the transmitting channel$(li)Ensure the channel matches the Network Receiver's channel"
+      "text": "To use the Network Transmitter:$(li)Place it within range of your Controller$(li)Connect it to your network using cables$(li)Insert a Network Card to configure the transmitting channel$(li)Ensure the channel matches the Network Receiver's channel$(li)Monitor power usage for optimal performance$(li)Configure security settings if needed"
     },
     {
       "type": "text",
-      "text": "The Network Transmitter can be used to extend your network over long distances by sending signals to a Network Receiver. This allows you to create separate network segments that can communicate with each other."
+      "text": "The Network Transmitter can be used to extend your network over long distances by sending signals to a Network Receiver with improved reliability. This allows you to create separate network segments that can communicate with each other seamlessly. RS2 includes enhanced power efficiency and better chunk loading support."
     },
     {
       "type": "crafting",

@@ -1,0 +1,24 @@
+{
+"name" : "Autocrafter",
+"icon" : "refinedstorage:autocrafter",
+"category" : "refstoragemanual:autocrafting",
+"pages" : [
+{
+"type" : "text",
+"text" : "The Autocrafter is a new and improved crafting component in Refined Storage 2, replacing the old Crafter with enhanced functionality and better performance. It features improved parallel processing capabilities, smarter resource management, and better integration with the network system."
+},
+{
+"type" : "text",
+"text" : "Key improvements:$(li)More efficient than RS1's Crafter$(li)Better parallel processing$(li)Improved resource management$(li)Smarter crafting queue$(li)Enhanced error handling$(li)Better performance monitoring$(br2)Multiple Autocrafters can work together seamlessly for complex crafting operations."
+},
+{
+"type" : "text",
+"text" : "Using the Autocrafter:$(li)Place it within network range$(li)Insert crafting patterns$(li)Connect to Autocrafter Manager$(li)Monitor via Crafting Monitor$(li)Configure priorities if needed$(br2)The Autocrafter automatically balances crafting tasks across available machines and manages resources efficiently."
+},
+{
+"type" : "crafting",
+"recipe" : "refinedstorage:autocrafter",
+"text" : "Autocrafter Crafting Recipe"
+}
+]
+} 

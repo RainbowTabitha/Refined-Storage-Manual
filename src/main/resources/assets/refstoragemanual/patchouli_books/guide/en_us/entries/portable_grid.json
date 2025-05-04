@@ -5,15 +5,15 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Portable Grid is a handheld version of the Grid that allows you to access your storage network from anywhere. It requires a Network Card to function."
+"text" : "The Portable Grid in Refined Storage 2 is a handheld version of the Grid that allows you to access your storage network from anywhere with improved performance and reliability. It features enhanced wireless connectivity and better power efficiency. It requires a Network Card to function and now includes advanced security features."
 },
 {
 "type" : "text",
-"text" : "Features:$(li)Portable access to your storage network$(li)All features of a regular Grid$(li)Requires a Network Card$(li)Works within range of a Wireless Transmitter$(li)Can be used while moving"
+"text" : "Features:$(li)Portable access to your storage network$(li)All features of a regular Grid$(li)Requires a Network Card$(li)Works within range of a Wireless Transmitter$(li)Can be used while moving$(li)Enhanced security options$(li)Improved power efficiency"
 },
 {
 "type" : "text",
-"text" : "To use the Portable Grid:$(li)Insert a Network Card$(li)Use within range of a Wireless Transmitter$(li)Right-click to open the interface$(li)Use like a regular Grid$(li)Can be used while moving around"
+"text" : "To use the Portable Grid:$(li)Insert a Network Card$(li)Use within range of a Wireless Transmitter$(li)Right-click to open the interface$(li)Use like a regular Grid$(li)Can be used while moving around$(li)Configure security settings if needed"
 },
 {
 "type" : "crafting",

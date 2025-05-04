@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Destructor is a versatile block that removes blocks or fluids from the world and transfers the resulting items into your storage network. It features whitelist and blacklist options for selective destruction, and can also pick up items directly, making it ideal for automated resource collection."
+"text" : "The Destructor in Refined Storage 2 is a versatile block that removes blocks or fluids from the world and transfers the resulting items into your storage network with enhanced precision and improved efficiency. It features whitelist and blacklist options for selective destruction with better filtering capabilities, and can also pick up items directly with improved collection speed, making it ideal for automated resource collection. RS2 features better mod compatibility and enhanced performance."
 },
 {
 "type" : "crafting",

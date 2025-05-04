@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The External Storage is a versatile block that connects external inventories or fluid tanks to your Refined Storage network, effectively expanding your storage capabilities. It allows the network to utilize the storage space of the connected inventory or tank, providing seamless integration and management of external resources."
+"text" : "The External Storage in Refined Storage 2 is a block that connects external inventories or fluid tanks to your storage network with enhanced performance and improved reliability. It allows you to access and manage items or fluids stored in connected containers directly through your network with better efficiency. RS2 features improved inventory handling and better mod compatibility."
 },
 {
 "type" : "crafting",

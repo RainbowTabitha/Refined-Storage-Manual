@@ -5,31 +5,31 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "Fluid Storage Blocks provide dedicated storage for fluids in your Refined Storage network. Like their item counterparts, these blocks can be placed in the world and retain their contents when broken. They integrate seamlessly with fluid handling components and won't despawn when dropped."
+"text" : "Fluid Storage Blocks provide dedicated storage for fluids in your Refined Storage network. Like their item counterparts, these blocks can be placed in the world and retain their contents when broken. RS2 brings improved fluid handling with better transfer rates and type management."
 },
 {
 "type" : "text",
-"text" : "Features include:$(br)$(li)Configurable Priority Settings$(li)Fluid Whitelist/Blacklist Options$(li)NBT Filtering Support$(li)Multiple Operation Modes$(br2)Access stored fluids using a $(l:fluid_grid)Fluid Grid$() or manage them through fluid handling components like the $(l:fluid_interface)Fluid Interface$()."
+"text" : "Features include:$(br)$(li)Configurable Priority Settings$(li)Fluid Whitelist/Blacklist Options$(li)NBT Filtering Support$(li)Multiple Operation Modes$(br2)Access stored fluids using a $(l:fluid_grid)Fluid Grid$() or manage them through fluid handling components like the $(l:fluid_interface)Fluid Interface$().$(br2)Available capacities:$(br)$(li)64k Fluid Storage Block (64,000 mB)$(li)256k Fluid Storage Block (256,000 mB)$(li)1024k Fluid Storage Block (1,024,000 mB)$(li)4096k Fluid Storage Block (4,096,000 mB)"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:64k_fluid_storage_block",
-"text" : "64k Fluid Storage Block - Stores 64,000 mB of fluids"
+"text" : "64k Fluid Storage Block Recipe"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:256k_fluid_storage_block",
-"text" : "256k Fluid Storage Block - Stores 256,000 mB of fluids"
+"text" : "256k Fluid Storage Block Recipe"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:1024k_fluid_storage_block",
-"text" : "1024k Fluid Storage Block - Stores 1,024,000 mB of fluids"
+"text" : "1024k Fluid Storage Block Recipe"
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:4096k_fluid_storage_block",
-"text" : "4096k Fluid Storage Block - Stores 4,096,000 mB of fluids"
+"text" : "4096k Fluid Storage Block Recipe"
 }
 ]
 }

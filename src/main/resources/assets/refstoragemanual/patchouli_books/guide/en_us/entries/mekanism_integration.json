@@ -1,0 +1,20 @@
+{
+"name" : "Mekanism Chemical Integration",
+"icon" : "mekanism:basic_chemical_tank",
+"category" : "refstoragemanual:integrations",
+"flag" : "mekanism",
+"pages" : [
+{
+"type" : "text",
+"text" : "This optional integration adds support for Mekanism chemicals in various Refined Storage components. When Mekanism is installed, RS2 can handle chemical storage, transfer, viewing, and autocrafting, making it easier to manage complex chemical processing systems."
+},
+{
+"type" : "text",
+"text" : "Chemical Support:$(li)Chemical Storage - Store and manage chemicals in RS2 networks$(li)Chemical Transfer - Move chemicals between machines and storage$(li)Chemical Viewing - Monitor chemical levels through the grid$(li)Chemical Autocrafting - Automate chemical production processes$(br2)This integration makes it possible to create fully automated chemical processing systems using RS2's management capabilities."
+},
+{
+"type" : "text",
+"text" : "Usage:$(li)Connect chemical tanks to your RS2 network$(li)Use interfaces to automate chemical processing$(li)Monitor chemical levels through the grid interface$(li)Set up autocrafting for chemical production$(br2)The integration is automatically enabled when both mods are installed, with no additional configuration required."
+}
+]
+} 

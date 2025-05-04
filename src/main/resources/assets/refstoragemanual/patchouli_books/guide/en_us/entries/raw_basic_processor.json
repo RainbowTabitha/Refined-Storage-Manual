@@ -5,7 +5,7 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Raw Basic Processor is an unrefined component that serves as the precursor to the Basic Processor. It must be smelted in a furnace to create the finished Basic Processor. This component combines silicon, redstone, and iron in a configuration that, when properly smelted, yields the computing capability needed for basic Refined Storage devices."
+"text" : "The Raw Basic Processor in Refined Storage 2 is an unrefined component that serves as the precursor to the Basic Processor. It must be smelted in a furnace to create the finished Basic Processor. This component combines silicon, redstone, and iron in a configuration that, when properly smelted, yields the computing capability needed for basic Refined Storage devices. RS2 features improved smelting efficiency and better material utilization."
 },
 {
 "type" : "crafting",

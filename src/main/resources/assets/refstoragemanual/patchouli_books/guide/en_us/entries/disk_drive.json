@@ -5,13 +5,12 @@
 "pages" : [
 {
 "type" : "text",
-"text" : "The Disk Drive is a critical component of your Refined Storage network, serving as the primary storage unit for $(l:storage_disks)storage disks$() and $(l:fluid_storage_disks)fluid storage disks$(). It allows for the efficient organization and retrieval of stored items and fluids, making it an essential part of any storage setup."
+"text" : "The Disk Drive in Refined Storage 2 is a critical component of your network, serving as the primary storage unit for $(l:storage_disks)storage disks$() and $(l:fluid_storage_disks)fluid storage disks$() with enhanced performance and improved reliability. It allows for the efficient organization and retrieval of stored items and fluids with better speed and accuracy, making it an essential part of any storage setup. RS2 features improved disk management and better power efficiency."
 },
 {
 "type" : "crafting",
 "recipe" : "refinedstorage:disk_drive",
 "text" : "Disk Drive Crafting Recipe."
 }
-
 ]
 }
